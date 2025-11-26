@@ -103,6 +103,7 @@ STEP 5: OUTPUT GENERATION
 </INSTRUCTIONS>
 
 <OUTPUT_FORMAT>
+# 🤖 AI STRATEGIC BRIEFING
 
 ## 🔥 KEY TAKEAWAY
 BLUF: [One-sentence summary of the most critical insight]
@@ -149,7 +150,17 @@ BLUF: [Key insight for this domain]
 [Keyword 1], [Keyword 2], [Keyword 3], [Keyword 4], [Keyword 5], [Keyword 6], [Keyword 7], [Keyword 8], [Keyword 9], [Keyword 10]
 
 <<<ARABIC_TRANSLATION>>>
-[Full Arabic Translation of the above content, maintaining the same markdown structure and formatting. Ensure RTL compatibility.]
+[CRITICAL: You MUST provide a COMPLETE Arabic translation of ALL sections above. Do NOT skip or summarize.
+REQUIRED sections in Arabic (same length as English):
+1. 🔥 KEY TAKEAWAY
+2. 🏭 INDUSTRY BREAKDOWNS (ALL domains)
+3. 🔗 CROSS-DOMAIN CONNECTIONS
+4. 💡 KEY PREDICTIONS
+5. 📈 STOCK PICKS - ALL 5 companies with tickers like (NVDA)
+6. 📊 SAUDI TASI OPPORTUNITIES - ALL 5 companies with tickers like (1211.SR)
+7. ⚠️ RISKS & LIMITATIONS
+8. 🏷️ TRENDING KEYWORDS
+Keep ALL company tickers in English format. Arabic translation should be EQUAL in length to English version.]
 </OUTPUT_FORMAT>"""
         
         # Make API request to OpenRouter
@@ -161,7 +172,7 @@ BLUF: [Key insight for this domain]
             "X-Title": "Genesis Mission Control"  # Optional, for OpenRouter analytics
         }
         
-        # Use the correct model name for Grok
+        # Use the correct model name for Grok - INCREASED max_tokens for full bilingual output
         data = {
             "model": "x-ai/grok-4.1-fast:free",
             "messages": [
@@ -169,7 +180,7 @@ BLUF: [Key insight for this domain]
                 {"role": "user", "content": user_prompt}
             ],
             "temperature": 0.7,
-            "max_tokens": 1500
+            "max_tokens": 4000
         }
         
         print("Sending request to OpenRouter API...")
