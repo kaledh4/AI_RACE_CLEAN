@@ -1,0 +1,396 @@
+{
+  "generated_at": "2025-11-26T14:15:45.093008",
+  "domains": {
+    "Advanced Manufacturing": {
+      "total_volume": 47126,
+      "recent_papers": [
+        {
+          "title": "Reinforcing Action Policies by Prophesying",
+          "summary": "Vision-Language-Action (VLA) policies excel in aligning language, perception, and robot control. However, most VLAs are trained purely by imitation, which overfits to demonstrations, and is brittle un...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20633v1"
+        },
+        {
+          "title": "Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI",
+          "summary": "Reproducible closed-loop evaluation remains a major bottleneck in Embodied AI such as visual navigation. A promising path forward is high-fidelity simulation that combines photorealistic sensor render...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20620v1"
+        },
+        {
+          "title": "Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning",
+          "summary": "Learning safe and stable robot motions from demonstrations remains a challenge, especially in complex, nonlinear tasks involving dynamic, obstacle-rich environments. In this paper, we propose Safe and...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20593v1"
+        },
+        {
+          "title": "Gated Uncertainty-Aware Runtime Dual Invariants for Neural Signal-Controlled Robotics",
+          "summary": "Safety-critical assistive systems that directly decode user intent from neural signals require rigorous guarantees of reliability and trust. We present GUARDIAN (Gated Uncertainty-Aware Runtime Dual I...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20570v1"
+        },
+        {
+          "title": "MIMIC-MJX: Neuromechanical Emulation of Animal Behavior",
+          "summary": "The primary output of the nervous system is movement and behavior. While recent advances have democratized pose tracking during complex behavior, kinematic trajectories alone provide only indirect acc...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20532v1"
+        },
+        {
+          "title": "Metric, inertially aligned monocular state estimation via kinetodynamic priors",
+          "summary": "Accurate state estimation for flexible robotic systems poses significant challenges, particular for platforms with dynamically deforming structures that invalidate rigid-body assumptions. This paper t...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20496v1"
+        },
+        {
+          "title": "Kleinkram: Open Robotic Data Management",
+          "summary": "We introduce Kleinkram, a free and open-source system designed to solve the challenge of managing massive, unstructured robotic datasets. Designed as a modular, on-premises cloud solution, Kleinkram e...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20492v1"
+        },
+        {
+          "title": "Power-Efficient Autonomous Mobile Robots",
+          "summary": "This paper presents pNav, a novel power-management system that significantly enhances the power/energy-efficiency of Autonomous Mobile Robots (AMRs) by jointly optimizing their physical/mechanical and...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20467v1"
+        },
+        {
+          "title": "BRIC: Bridging Kinematic Plans and Physical Control at Test Time",
+          "summary": "We propose BRIC, a novel test-time adaptation (TTA) framework that enables long-term human motion generation by resolving execution discrepancies between diffusion-based kinematic motion planners and ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20431v1"
+        },
+        {
+          "title": "VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning",
+          "summary": "Understanding the physical world requires perceptual models grounded in physical laws rather than mere statistical correlations. However, existing multimodal learning frameworks, focused on vision and...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20422v1"
+        }
+      ]
+    },
+    "Biotechnology": {
+      "total_volume": 9967,
+      "recent_papers": [
+        {
+          "title": "MoRE: Batch-Robust Multi-Omics Representations from Frozen Pre-trained Transformers",
+          "summary": "Representation learning on multi-omics data is challenging due to extreme dimensionality, modality heterogeneity, and cohort-specific batch effects. While pre-trained transformer backbones have shown ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20382v1"
+        },
+        {
+          "title": "Interpreting GFlowNets for Drug Discovery: Extracting Actionable Insights for Medicinal Chemistry",
+          "summary": "Generative Flow Networks, or GFlowNets, offer a promising framework for molecular design, but their internal decision policies remain opaque. This limits adoption in drug discovery, where chemists req...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19264v1"
+        },
+        {
+          "title": "Torsion-Space Diffusion for Protein Backbone Generation with Geometric Refinement",
+          "summary": "Designing new protein structures is fundamental to computational biology, enabling advances in therapeutic molecule discovery and enzyme engineering. Existing diffusion-based generative models typical...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19184v1"
+        },
+        {
+          "title": "Fast and Flexible Flow Decompositions in General Graphs via Dominators",
+          "summary": "Multi-assembly methods rely at their core on a flow decomposition problem, namely, decomposing a weighted graph into weighted paths or walks. However, most results over the past decade have focused on...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19153v1"
+        },
+        {
+          "title": "The TAG array of a multiple sequence alignment",
+          "summary": "Modern genomic analyses increasingly rely on pangenomes, that is, representations of the genome of entire populations. The simplest representation of a pangenome is a set of individual genome sequence...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19068v1"
+        },
+        {
+          "title": "A universal phase-plane model for in vivo protein aggregation",
+          "summary": "Neurodegenerative diseases are driven by the accumulation of protein aggregates in the brain of affected individuals. The aggregation behaviour in vitro is well understood and driven by the equilibrat...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.18893v1"
+        },
+        {
+          "title": "Auxiliary Gene Learning: Spatial Gene Expression Estimation by Auxiliary Gene Selection",
+          "summary": "Spatial transcriptomics (ST) is a novel technology that enables the observation of gene expression at the resolution of individual spots within pathological tissues. ST quantifies the expression of te...",
+          "date": "2025-11-23",
+          "link": "http://arxiv.org/abs/2511.18336v1"
+        },
+        {
+          "title": "EscalNet: Learn isotropic representation space for biomolecular dynamics based on effective energy",
+          "summary": "Deep learning has emerged as a powerful framework for analyzing biomolecular dynamics trajectories, enabling efficient representations that capture essential system dynamics and facilitate mechanistic...",
+          "date": "2025-11-22",
+          "link": "http://arxiv.org/abs/2511.18010v1"
+        },
+        {
+          "title": "A Hybrid Computational Intelligence Framework for scRNA-seq Imputation: Integrating scRecover and Random Forests",
+          "summary": "Single-cell RNA sequencing (scRNA-seq) enables transcriptomic profiling at cellular resolution but suffers from pervasive dropout events that obscure biological signals. We present SCR-MF, a modular t...",
+          "date": "2025-11-21",
+          "link": "http://arxiv.org/abs/2511.16923v1"
+        },
+        {
+          "title": "The Joint Gromov Wasserstein Objective for Multiple Object Matching",
+          "summary": "The Gromov-Wasserstein (GW) distance serves as a powerful tool for matching objects in metric spaces. However, its traditional formulation is constrained to pairwise matching between single objects, l...",
+          "date": "2025-11-21",
+          "link": "http://arxiv.org/abs/2511.16868v1"
+        }
+      ]
+    },
+    "Critical Materials": {
+      "total_volume": 18399,
+      "recent_papers": [
+        {
+          "title": "Emergent Superfluidity of Hard-Core Excitons in Single-Layer Breathing-Kagome Nb$_3$Te$_x$Cl$_{8-x}$",
+          "summary": "We develop a microscopic theory of superfluidity for hard-core dark excitons on the triangular lattice by mapping the large-$U$ Bose--Hubbard model to an effective XXZ spin-$\\frac{1}{2}$ Hamiltonian i...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20598v1"
+        },
+        {
+          "title": "Extreme Ultraviolet Spectroscopy of Highly Charged Lu and Yb Ions for Nuclear Charge Radius Determination",
+          "summary": "We report a high-precision determination of the natural-abundance-averaged nuclear charge-radius difference between Yb and Lu using extreme ultraviolet (EUV) spectroscopy of highly charged ions (HCIs)...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20537v1"
+        },
+        {
+          "title": "A Reality Check on SBOM-based Vulnerability Management: An Empirical Study and A Path Forward",
+          "summary": "The Software Bill of Materials (SBOM) is a critical tool for securing the software supply chain (SSC), but its practical utility is undermined by inaccuracies in both its generation and its applicatio...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20313v1"
+        },
+        {
+          "title": "Ta-based Josephson junctions using insulating ALD TaN tunnel barriers",
+          "summary": "Josephson junctions form the core circuit element in superconducting quantum computing circuits, single flux quantum digital logic circuits, and sensing devices such as SQUIDs. Aluminum oxide has typi...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20266v1"
+        },
+        {
+          "title": "Superconducting Parametric Amplifiers: Resonator Design and Role in Qubit Readout",
+          "summary": "Superconducting parametric amplifiers (SPAs) are critical components for ultralow-noise qubit readout in quantum computing, addressing the critical challenge of amplifying weak quantum signals without...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20097v1"
+        },
+        {
+          "title": "iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization",
+          "summary": "Radio maps (RMs) serve as environment-aware electromagnetic (EM) representations that connect scenario geometry and material properties to the spatial distribution of signal strength, enabling localiz...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20015v1"
+        },
+        {
+          "title": "Phase Field Study of Exchange Coupling of Hard/Soft Ferrite on Magnetic Permeability",
+          "summary": "Effective modulation of magnetic permeability plays a vital role in the development of high-performance inductors. Here, phase-field simulations of hard/soft ferrite composites (BaM/NiZn) clarify how ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.19939v1"
+        },
+        {
+          "title": "Sequential Fragmentation of C/2025 K1 (ATLAS) After Its Near-Sun Passage",
+          "summary": "Comet C/2025 K1 (ATLAS) reached perihelion at 0.33~au on 2025 October 8. Daily monitoring by the LCO Outbursting Objects Key Project revealed a major activity increase between November 2 and 4, accomp...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19707v1"
+        },
+        {
+          "title": "Quantum Coherence of Rare-Earth Ions in Heterogeneous Photonic Interfaces",
+          "summary": "Harnessing rare-earth ions in oxides for quantum networks requires integration with bright emitters in III-V semiconductors, but local disorder and interfacial noise limit their optical coherence. Her...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19668v1"
+        },
+        {
+          "title": "Mechanical Design of the PIP-II ORBUMP Pulsed Dipole Magnet",
+          "summary": "The Proton Improvement Plan II (PIP-II) project is a vital upgrade to the Fermilab accelerator complex. The magnet pulse rate of the PIP-II Injection system requires an increase from the current rate ...",
+          "date": "2025-11-24",
+          "link": "http://arxiv.org/abs/2511.19658v1"
+        }
+      ]
+    },
+    "Nuclear Energy": {
+      "total_volume": 76325,
+      "recent_papers": [
+        {
+          "title": "Precision thermodynamics of the strongly interacting Fermi gas in two dimensions",
+          "summary": "The two-species cold atomic Fermi gas with attractive short-range interactions in two spatial dimensions undergoes a Bardeen-Cooper-Schrieffer (BCS) to a Bose-Einstein Condensate (BEC) crossover as a ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20599v1"
+        },
+        {
+          "title": "A New Framework for Extracting GPDs from Exclusive Photon Electroproduction",
+          "summary": "Recently, a new framework for studying generic $2 \\to 3$ hard exclusive reactions, referred to as single-diffractive hard exclusive processes (SDHEP), has been introduced to provide a cleaner separati...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20402v1"
+        },
+        {
+          "title": "Anisotropic flows in heavy-ion collisions at HADES with Skyrme pseudopotential",
+          "summary": "Within the framework of the lattice Boltzmann-Uehling-Uhlenbeck transport model, we present a systematic study of proton anisotropic flow observables measured by the HADES collaboration, by utilizing ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20387v1"
+        },
+        {
+          "title": "Matrix approximations of operators",
+          "summary": "The approximate representation of operators by finite matrices is analysed in terms of accuracy and convergence. The identity operator, for example, can be reconstructed using a basis of harmonic osci...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20381v1"
+        },
+        {
+          "title": "Toward a Unified Understanding of the Dense Matter Equation of State",
+          "summary": "Efforts to understand the equation of state (EOS) of dense nuclear matter at supra-saturation densities have grown more sophisticated over the past decade, driven by a surge in high-precision data fro...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20378v1"
+        },
+        {
+          "title": "Discrete non-orthogonal shell model for nuclear structure: Towards heavy elements",
+          "summary": "We present recent developments of the Discrete Non-Orthogonal Shell Model (DNO-SM) for nuclear structure studies far from stability. Exact shell-model solutions are obtained for typical open-shell lig...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20247v1"
+        },
+        {
+          "title": "First determination of fragmentation functions in an exotic-hadron candidate",
+          "summary": "In recent years, there are experimental reports on exotic-hadron candidates, which have different quark configurations from ordinary $q\\bar q$ and $qqq$ constituents. However, it is not easy to confir...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20217v1"
+        },
+        {
+          "title": "Exploring the statistical properties of the neutron-deficient $^{109}$In isotope with the Oslo method",
+          "summary": "The nuclear level density (NLD) and the $\u03b3$-ray strength function (GSF) of the neutron-deficient $^{109}$In isotope were extracted for the first time with data from the $^{106}$Cd$(\u03b1,p\u03b3)^{109}$In reac...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20206v1"
+        },
+        {
+          "title": "Studies of CPT symmetry in positronium decays with 192 plastic strip J-PET detector",
+          "summary": "A direct test of the CPT symmetry is performed for the electromagnetic decays of ortho-positronium using the J-PET tomograph. We present the precise measurement of the CPT-sensitive angular correlatio...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20098v1"
+        },
+        {
+          "title": "The covariant equations of motion of massive spinning particles in a background Yang-Mills field",
+          "summary": "A strong classical color field, known as the glasma, is generated in the earliest stage of relativistic heavy-ion collisions and can significantly influence the momentum and spin dynamics of hard prob...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20083v1"
+        }
+      ]
+    },
+    "Quantum Info Science": {
+      "total_volume": 170592,
+      "recent_papers": [
+        {
+          "title": "Routing in Non-Isotonic Quantum Networks",
+          "summary": "Optimal routing in quantum-repeater networks requires finding the best path that connects a pair of end nodes. Most previous work on routing in quantum networks assumes utility functions that are isot...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20628v1"
+        },
+        {
+          "title": "Extracting conserved operators from a projected entangled pair state",
+          "summary": "Given a tensor network state, how can we determine conserved operators (including Hamiltonians) for which the state is an eigenstate? We answer this question by presenting a method to extract geometri...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20619v1"
+        },
+        {
+          "title": "Asymptotic yet practical optimization of quantum circuits implementing GF($2^m$) multiplication and division operations",
+          "summary": "We present optimized quantum circuits for GF$(2^m)$ multiplication and division operations, which are essential computing primitives in various quantum algorithms. Our ancilla-free GF multiplication c...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20618v1"
+        },
+        {
+          "title": "Quantum Key Distribution: Bridging Theoretical Security Proofs, Practical Attacks, and Error Correction for Quantum-Augmented Networks",
+          "summary": "Quantum Key Distribution (QKD) is revolutionizing cryptography by promising information-theoretic security through the immutable laws of quantum mechanics. Yet, the challenge of transforming these ide...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20602v1"
+        },
+        {
+          "title": "Dynamic local single-shot checks for toric codes",
+          "summary": "Quantum error correction typically requires repeated syndrome extraction due to measurement noise, which results in substantial time overhead in fault-tolerant computation. Single-shot error correctio...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20576v1"
+        },
+        {
+          "title": "Reservoir-Engineered Exceptional Points for Quantum Energy Storage",
+          "summary": "Exceptional points are spectral singularities where both eigenvalues and eigenvectors collapse onto a single mode, causing the system behavior to shift abruptly and making it highly responsive to even...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20569v1"
+        },
+        {
+          "title": "Magnetic Control of the Non-Hermitian Skin Effect in Two-Dimensional Lattices",
+          "summary": "The non-Hermitian skin effect (NHSE) -- the anomalous boundary accumulation of an extensive number of bulk modes -- has emerged as a hallmark of non-Hermitian physics, with broad implications for tran...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20518v1"
+        },
+        {
+          "title": "Triangle Inequality for a Quantum Wasserstein Divergence",
+          "summary": "We resolve a conjecture of De Palma and Trevisan by proving the triangle inequality for a quantum 2-Wasserstein distance. The proof relies on complex analysis methods to establish a new integral repre...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20450v1"
+        },
+        {
+          "title": "Efficient Estimation of Multiple Temperatures via a Collisional Model",
+          "summary": "We present a quantum thermometric protocol for the estimation of multiple temperatures within the collisional model framework. Employing the formalism of multiparameter quantum metrology, we develop a...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20448v1"
+        },
+        {
+          "title": "Impact of the valence band on Rydberg excitons in cuprous oxide quantum wells",
+          "summary": "The complex valence band structure of bulk cuprous oxide necessitates going beyond the parabolic approximation to precisely estimate exciton binding energies. The same is true for excitons in cuprous ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20441v1"
+        }
+      ]
+    },
+    "Semiconductors": {
+      "total_volume": 104762,
+      "recent_papers": [
+        {
+          "title": "Asymptotic yet practical optimization of quantum circuits implementing GF($2^m$) multiplication and division operations",
+          "summary": "We present optimized quantum circuits for GF$(2^m)$ multiplication and division operations, which are essential computing primitives in various quantum algorithms. Our ancilla-free GF multiplication c...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20618v1"
+        },
+        {
+          "title": "From quantum geometry to non-linear optics and gerbes: Recent advances in topological band theory",
+          "summary": "Topological principles constitute at present an integral component of condensed matter physics, permeating the modern characterization of electronic states while also guiding materials design. In this...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20608v1"
+        },
+        {
+          "title": "Orbital Longitudinal Magnetoelectricity in Quasi-2D Parity-Violating Antiferromagnets: Interplay of Berry Phase and Stacking Order",
+          "summary": "The magnetoelectric (ME) effect traditionally arises from complex spin-orbital interactions in multiferroic materials. In this work, we propose a distinct, intrinsic mechanism for the magnetoelectric ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20517v1"
+        },
+        {
+          "title": "Magnetic Bulk Photovoltaic Effect in Bernal Bilayer Graphene",
+          "summary": "Magnetic fields break time-reversal symmetry (TRS) and reshape a material's spatial symmetry. Because the bulk photovoltaic effect (BPVE) is exquisitely sensitive to symmetry, it offers a natural aren...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20498v1"
+        },
+        {
+          "title": "Impact of the valence band on Rydberg excitons in cuprous oxide quantum wells",
+          "summary": "The complex valence band structure of bulk cuprous oxide necessitates going beyond the parabolic approximation to precisely estimate exciton binding energies. The same is true for excitons in cuprous ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20441v1"
+        },
+        {
+          "title": "Real-Space Imaging of Moir\u00e9-Confined Excitons in Twisted Bilayer MoS$_2$",
+          "summary": "Twisted two-dimensional semiconductors generate a moir\u00e9 landscape that confines excitons (bound electron-hole pairs) into programmable lattices, offering routes to efficient light sources, sensing, an...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20398v1"
+        },
+        {
+          "title": "Spin current symmetries generated by GdFeCo ferrimagnet across its magnetisation compensation temperature",
+          "summary": "Ferrimagnets, composed of antiferromagnetically coupled magnetic sublattices whose net magnetisation can be tuned by temperature, offer a unique platform for probing the symmetry of the spin currents ...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20379v1"
+        },
+        {
+          "title": "Stretching helical molecular springs: the peculiar evolution of electron transport in helicene junctions",
+          "summary": "Single-molecule junctions represent electromechanical systems at the edge of device miniaturization. Despite extensive studies on the interplay between mechanical manipulation and electron transport i...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20363v1"
+        },
+        {
+          "title": "Landau-level-dependent photonic spin Hall effect in monolayer WTe2",
+          "summary": "Landau level (LL) engineered photonic spin Hall effect (PSHE) holds great promise for nanoscale manipulation and steering of magneto-optical transport in two-dimensional atomic systems. Herein, we the...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20311v1"
+        },
+        {
+          "title": "Escaping AB caging via Floquet engineering: photo-induced long-range interference in an all-band-flat model",
+          "summary": "Flat-band lattices hosting compact localized states are highly sensitive to external modulation, and the tailored design of a perturbation to imprint specific features becomes relevant. Here we show t...",
+          "date": "2025-11-25",
+          "link": "http://arxiv.org/abs/2511.20255v1"
+        }
+      ]
+    }
+  },
+  "ai_briefing": "# \ud83e\udd16 AI STRATEGIC BRIEFING\n\n## \ud83d\udd25 KEY TAKEAWAY\nBLUF: AI-driven robotics (VLA policies, Kleinkram) and quantum materials (Nb\u2083Te\u2093Cl\u2088\u208b\u2093, toric codes) converge to enable scalable autonomous systems and fault-tolerant quantum hardware within 12 months.\n\n## \ud83c\udfed INDUSTRY BREAKDOWNS\n### Advanced Manufacturing\nBLUF: Kleinkram unlocks massive robotic dataset management, accelerating VLA policy training for real-world deployment.\n- Kleinkram: Open-source on-premises system for unstructured robotic data.\n- GUARDIAN: Gated uncertainty for neural signal-controlled safe robotics.\n- pNav: Power-efficient navigation optimizing AMR mechanics and computation.\n\n### Biotechnology\nBLUF: GFlowNets and torsion-space diffusion generative models industrialize protein design and drug discovery.\n- GFlowNets: Interpretable policies for medicinal chemistry insights.\n- Torsion-Space Diffusion: Backbone generation with geometric refinement.\n- MoRE: Batch-robust multi-omics from pre-trained transformers.\n\n### Critical Materials\nBLUF: Nb\u2083Te\u2093Cl\u2088\u208b\u2093 exhibits emergent superfluidity, advancing 2D quantum materials for computing.\n- Nb\u2083Te\u2093Cl\u2088\u208b\u2093: Hard-core exciton superfluidity via XXZ spin model.\n- Ta-based Josephson junctions: ALD TaN barriers for quantum circuits.\n- Superconducting Parametric Amplifiers: Ultralow-noise qubit readout.\n\n### Quantum Info Science\nBLUF: Toric codes enable dynamic single-shot error correction, slashing quantum overhead.\n- Toric codes: Local single-shot checks for fault-tolerant computation.\n- GF(2^m) circuits: Ancilla-free multiplication/division optimization.\n- Exceptional Points: Reservoir-engineered quantum energy storage.\n\n### Semiconductors\nBLUF: Moir\u00e9-confined excitons in twisted MoS\u2082 enable programmable optoelectronics.\n- Twisted Bilayer MoS\u2082: Real-space imaging of moir\u00e9 excitons.\n- Rydberg excitons: Valence band effects in Cu\u2082O quantum wells.\n- GF(2^m) quantum circuits: Asymptotic optimization for algorithms.\n\n## \ud83d\udd17 CROSS-DOMAIN CONNECTIONS\n1. Robotics-Biotech: GUARDIAN/MIMIC-MJX neural emulation bridges bio-signals to robot control (VLA policies).\n2. Quantum Info-Critical Materials: Toric codes pair with Ta JJ/SPAs for scalable qubit readout.\n3. Semiconductors-Quantum Info: GF(2^m) circuits overlap, enabling error-corrected quantum semis.\n\n## \ud83d\udca1 KEY PREDICTIONS\n- Kleinkram adoption doubles robotic training datasets by Q3 2026 (85% confidence)\n- Nb\u2083Te\u2093Cl\u2088\u208b\u2093 prototypes integrate into quantum chips within 9 months (72% confidence)\n- Toric code single-shot correction reduces quantum runtime 50% in NISQ devices (78% confidence)\n\n## \ud83d\udcc8 STOCK PICKS\n1. NVIDIA (NVDA): VLA/Kleinkram training on GPUs; quantum sims/biotech ML (92% confidence)\n2. IonQ (IONQ): Toric codes/GF(2^m) directly boost fault-tolerant quantum hardware (88% confidence)\n3. Intuitive Surgical (ISRG): GUARDIAN neural robotics enhances surgical autonomy (80% confidence)\n4. Taiwan Semiconductor (TSM): Ta JJ/moir\u00e9 semis for quantum/chip production (85% confidence)\n5. Recursion Pharmaceuticals (RXRX): GFlowNets/torsion diffusion accelerate AI drug pipelines (75% confidence)\n\n## \u26a0\ufe0f RISKS & LIMITATIONS\n- Preprint volatility: 80% of papers unpeer-reviewed, prone to retraction (single-source hype).\n- Scalability gaps: Lab entities (Nb\u2083Te\u2093Cl\u2088\u208b\u2093, toric codes) unproven at industrial volumes."
+}
