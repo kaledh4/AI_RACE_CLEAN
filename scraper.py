@@ -107,45 +107,45 @@ STEP 5: OUTPUT GENERATION
 ## 🔥 KEY TAKEAWAY
 BLUF: [One-sentence summary of the most critical insight]
 
-🏭 INDUSTRY BREAKDOWNS
+## 🏭 INDUSTRY BREAKDOWNS
 ### [Domain Name]
 BLUF: [Key insight for this domain]
-- [Key entity 1]: [Brief description]
-- [Key entity 2]: [Brief description]
-- [Key entity 3]: [Brief description]
+1. [Key entity 1]: [Brief description]
+2. [Key entity 2]: [Brief description]
+3. [Key entity 3]: [Brief description]
 
 ### [Next Domain]
 ...
 
-🔗 CROSS-DOMAIN CONNECTIONS
+## 🔗 CROSS-DOMAIN CONNECTIONS
 1. [Connection 1]: [Brief explanation]
 2. [Connection 2]: [Brief explanation]
 3. [Connection 3]: [Brief explanation]
 
-💡 KEY PREDICTIONS
+## 💡 KEY PREDICTIONS
 - [Prediction 1] ([Confidence]% confidence)
 - [Prediction 2] ([Confidence]% confidence)
 - [Prediction 3] ([Confidence]% confidence)
 
-📈 STOCK PICKS
+## 📈 STOCK PICKS
 1. [Company Name] ([Ticker]): [Why relevant] ([Confidence]% confidence)
 2. [Company Name] ([Ticker]): [Why relevant] ([Confidence]% confidence)
 3. [Company Name] ([Ticker]): [Why relevant] ([Confidence]% confidence)
 4. [Company Name] ([Ticker]): [Why relevant] ([Confidence]% confidence)
 5. [Company Name] ([Ticker]): [Why relevant] ([Confidence]% confidence)
 
-📊 SAUDI TASI OPPORTUNITIES
+## 📊 SAUDI TASI OPPORTUNITIES
 1. [Company Name] ([Ticker].SR): [Sector connection] - [Why relevant] ([Confidence]% confidence)
 2. [Company Name] ([Ticker].SR): [Sector connection] - [Why relevant] ([Confidence]% confidence)
 3. [Company Name] ([Ticker].SR): [Sector connection] - [Why relevant] ([Confidence]% confidence)
 4. [Company Name] ([Ticker].SR): [Sector connection] - [Why relevant] ([Confidence]% confidence)
 5. [Company Name] ([Ticker].SR): [Sector connection] - [Why relevant] ([Confidence]% confidence)
 
-⚠️ RISKS & LIMITATIONS
+## ⚠️ RISKS & LIMITATIONS
 - [Risk 1]: [Brief explanation]
 - [Risk 2]: [Brief explanation]
 
-🏷️ TRENDING KEYWORDS
+## 🏷️ TRENDING KEYWORDS
 [Keyword 1], [Keyword 2], [Keyword 3], [Keyword 4], [Keyword 5], [Keyword 6], [Keyword 7], [Keyword 8], [Keyword 9], [Keyword 10]
 
 <<<ARABIC_TRANSLATION>>>
