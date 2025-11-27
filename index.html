@@ -294,17 +294,19 @@
             font-size: 1.6rem;
             margin-top: 2rem;
             margin-bottom: 1rem;
-            color: var(--accent);
+            color: #00d4ff;
             font-weight: 600;
             border-bottom: 1px solid var(--border);
             padding-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
 
         .briefing-content h3 {
             font-size: 1.4rem;
             margin-top: 1.5rem;
             margin-bottom: 1rem;
-            color: var(--success);
+            color: #ffffff;
             font-weight: 600;
         }
 
@@ -312,7 +314,7 @@
             font-size: 1.2rem;
             margin-top: 1rem;
             margin-bottom: 0.5rem;
-            color: var(--warning);
+            color: var(--accent);
             font-weight: 600;
         }
 
@@ -744,7 +746,7 @@
         <!-- AI Briefing -->
         <section class="ai-briefing">
             <div class="briefing-header">
-               STRATEGIC BRIEFING
+                STRATEGIC BRIEFING
                 <div class="briefing-actions" style="margin-left: auto; display: flex; gap: 10px;">
                     <button onclick="copyBriefing()" class="action-btn" title="Copy to Clipboard">📋 Copy</button>
                     <button onclick="downloadBriefing()" class="action-btn" title="Download as .md">💾 Download</button>
@@ -851,12 +853,12 @@
         function parseMarkdown(text) {
             if (!text) return "";
 
-            // Convert markdown to HTML with better handling for our structured content
+            // Convert markdown to HTML - process headers BEFORE line breaks
             return text
-                // Headers
-                .replace(/^# (.*$)/gm, '<h2>$1</h2>')
-                .replace(/^## (.*$)/gm, '<h3>$1</h3>')
-                .replace(/^### (.*$)/gm, '<h4>$1</h4>')
+                // Headers (must process from most specific to least specific, BEFORE <br> tags)
+                .replace(/^### (.*$)/gim, '<h4>$1</h4>')
+                .replace(/^## (.*$)/gim, '<h3>$1</h3>')
+                .replace(/^# (.*$)/gim, '<h2>$1</h2>')
                 // Bold and italic
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                 .replace(/\*(.*?)\*/g, '<em>$1</em>')
@@ -869,12 +871,8 @@
                 .replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" target="_blank">$1</a>')
                 // Code
                 .replace(/`(.*?)`/g, '<code>$1</code>')
-                // Line breaks
-                .replace(/\n\n/g, '</p><p>')
-                .replace(/\n/g, '<br>')
-                // Wrap in paragraph if needed
-                .replace(/^(?!<)/gm, '<p>')
-                .replace(/(<br>)(?!<)/g, '$1<p>');
+                // Line breaks (done AFTER headers)
+                .replace(/\n/g, '<br>');
         }
 
         // --- COUNTDOWN LOGIC ---
@@ -933,8 +931,8 @@
                 content = content.replace(/BLUF: (.*?)(?=\n|$)/g, '<div class="bluf"><strong>BLUF:</strong> $1</div>');
             }
 
-            // Handle confidence scores
-            content = content.replace(/\((\d+)% confidence\)/g, ' (<span class="confidence-badge">$1%</span>)');
+            // Handle confidence scores - fix spacing
+            content = content.replace(/\(\s*(\d+)%\s*confidence\)/g, '(<span class="confidence-badge">$1%</span>)');
 
             // Handle stock tickers
             content = content.replace(/\(([\w-]+)\):/g, '(<span class="ticker">$1</span>):');
