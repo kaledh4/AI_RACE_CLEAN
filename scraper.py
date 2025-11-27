@@ -103,7 +103,6 @@ STEP 5: OUTPUT GENERATION
 </INSTRUCTIONS>
 
 <OUTPUT_FORMAT>
-# 🤖 AI STRATEGIC BRIEFING
 
 ## 🔥 KEY TAKEAWAY
 BLUF: [One-sentence summary of the most critical insight]
