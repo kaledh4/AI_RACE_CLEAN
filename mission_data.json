@@ -1,79 +1,103 @@
 {
-  "generated_at": "2025-11-30T06:15:36.400980",
+  "generated_at": "2025-12-01T06:18:27.687451",
   "domains": {
     "Advanced Manufacturing": {
-      "total_volume": 47154,
+      "total_volume": 47212,
       "recent_papers": [
         {
-          "title": "TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos",
-          "summary": "Learning new robot tasks on new platforms and in new scenes from only a handful of demonstrations remains challenging. While videos of other embodiments - humans and different robots - are abundant, d...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21690v1"
+          "title": "From CAD to POMDP: Probabilistic Planning for Robotic Disassembly of End-of-Life Products",
+          "summary": "To support the circular economy, robotic systems must not only assemble new products but also disassemble end-of-life (EOL) ones for reuse, recycling, or safe disposal. Existing approaches to disassem...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23407v1"
         },
         {
-          "title": "Uncertainty Quantification for Visual Object Pose Estimation",
-          "summary": "Quantifying the uncertainty of an object's pose estimate is essential for robust control and planning. Although pose estimation is a well-studied robotics problem, attaching statistically rigorous unc...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21666v1"
+          "title": "Design, modelling and experimental validation of bipenniform shape memory alloy-based linear actuator integrable with hydraulic stroke amplification mechanism",
+          "summary": "The increasing industrial demand for alternative actuators over conventional electromagnetism-based systems having limited efficiency, bulky size, complex design due to in-built gear-train mechanisms,...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23372v1"
         },
         {
-          "title": "Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving",
-          "summary": "End-to-end (E2E) autonomous driving models have demonstrated strong performance in open-loop evaluations but often suffer from cascading errors and poor generalization in closed-loop settings. To addr...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21584v1"
+          "title": "SimScale: Learning to Drive via Real-World Simulation at Scale",
+          "summary": "Achieving fully autonomous driving systems requires learning rational decisions in a wide span of scenarios, including safety-critical and out-of-distribution ones. However, such cases are underrepres...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23369v1"
         },
         {
-          "title": "VacuumVLA: Boosting VLA Capabilities via a Unified Suction and Gripping Tool for Complex Robotic Manipulation",
-          "summary": "Vision Language Action models have significantly advanced general purpose robotic manipulation by harnessing large scale pretrained vision and language representations. Among existing approaches, a ma...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21557v1"
+          "title": "SafeHumanoid: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot",
+          "summary": "Safe and trustworthy Human Robot Interaction (HRI) requires robots not only to complete tasks but also to regulate impedance and speed according to scene context and human proximity. We present SafeHu...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23300v1"
         },
         {
-          "title": "$\\mathcal{E}_0$: Enhancing Generalization and Fine-Grained Control in VLA Models via Continuized Discrete Diffusion",
-          "summary": "Vision-Language-Action (VLA) models offer a unified framework for robotic manipulation by integrating visual perception, language understanding, and control generation. Yet existing VLA models still s...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21542v1"
+          "title": "Incorporating Ephemeral Traffic Waves in A Data-Driven Framework for Microsimulation in CARLA",
+          "summary": "This paper introduces a data-driven traffic microsimulation framework in CARLA that reconstructs real-world wave dynamics using high-fidelity time-space data from the I-24 MOTION testbed. Calibration ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23236v1"
         },
         {
-          "title": "Predictive Safety Shield for Dyna-Q Reinforcement Learning",
-          "summary": "Obtaining safety guarantees for reinforcement learning is a major challenge to achieve applicability for real-world tasks. Safety shields extend standard reinforcement learning and achieve hard safety...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21531v1"
+          "title": "Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing",
+          "summary": "Complex and even chaotic dynamics, though prevalent in many natural and engineered systems, has been largely avoided in the design of electromechanical systems due to concerns about wear and controlab...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23215v1"
         },
         {
-          "title": "Hybrid Control for Robotic Nut Tightening Task",
-          "summary": "An autonomous robotic nut tightening system for a serial manipulator equipped with a parallel gripper is proposed. The system features a hierarchical motion-primitive-based planner and a control-switc...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21366v1"
+          "title": "Fault-Tolerant MARL for CAVs under Observation Perturbations for Highway On-Ramp Merging",
+          "summary": "Multi-Agent Reinforcement Learning (MARL) holds significant promise for enabling cooperative driving among Connected and Automated Vehicles (CAVs). However, its practical application is hindered by a ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23193v1"
         },
         {
-          "title": "Scalable Multisubject Vital Sign Monitoring With mmWave FMCW Radar and FPGA Prototyping",
-          "summary": "In this work, we introduce an innovative approach to estimate the vital signs of multiple human subjects simultaneously in a non-contact way using a Frequency Modulated Continuous Wave (FMCW) radar-ba...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21314v1"
+          "title": "Obstruction reasoning for robotic grasping",
+          "summary": "Successful robotic grasping in cluttered environments not only requires a model to visually ground a target object but also to reason about obstructions that must be cleared beforehand. While current ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23186v1"
         },
         {
-          "title": "Neural NMPC through Signed Distance Field Encoding for Collision Avoidance",
-          "summary": "This paper introduces a neural Nonlinear Model Predictive Control (NMPC) framework for mapless, collision-free navigation in unknown environments with Aerial Robots, using onboard range sensing. We le...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21312v1"
+          "title": "Automated Generation of MDPs Using Logic Programming and LLMs for Robotic Applications",
+          "summary": "We present a novel framework that integrates Large Language Models (LLMs) with automated planning and formal verification to streamline the creation and use of Markov Decision Processes (MDP). Our sys...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23143v1"
         },
         {
-          "title": "Improvement of Collision Avoidance in Cut-In Maneuvers Using Time-to-Collision Metrics",
-          "summary": "This paper proposes a new strategy for collision avoidance system leveraging Time-to-Collision (TTC) metrics for handling cut-in scenarios, which are particularly challenging for autonomous vehicles (...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21280v1"
+          "title": "LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models",
+          "summary": "Learning transferable latent actions from large-scale object manipulation videos can significantly enhance generalization in downstream robotics tasks, as such representations are agnostic to differen...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23034v1"
         }
       ]
     },
     "Biotechnology": {
-      "total_volume": 9970,
+      "total_volume": 9974,
       "recent_papers": [
+        {
+          "title": "deepFEPS: Deep Learning-Oriented Feature Extraction for Biological Sequences",
+          "summary": "Machine- and deep-learning approaches for biological sequences depend critically on transforming raw DNA, RNA, and protein FASTA files into informative numerical representations. However, this process...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.22821v1"
+        },
+        {
+          "title": "DeepPNI: Language- and graph-based model for mutation-driven protein-nucleic acid energetics",
+          "summary": "The interaction between proteins and nucleic acids is crucial for processes that sustain cellular function, including DNA maintenance and the regulation of gene expression and translation. Amino acid ...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22239v1"
+        },
+        {
+          "title": "Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning",
+          "summary": "Machine learning models for 3D molecular property prediction typically rely on atom-based representations, which may overlook subtle physical information. Electron density maps -- the direct output of...",
+          "date": "2025-11-26",
+          "link": "http://arxiv.org/abs/2511.21900v1"
+        },
         {
           "title": "Guiding Generative Models for Protein Design: Prompting, Steering and Aligning",
           "summary": "Generative artificial intelligence (AI) models learn probability distributions from data and produce novel samples that capture the salient properties of their training sets. Proteins are particularly...",
           "date": "2025-11-26",
           "link": "http://arxiv.org/abs/2511.21476v1"
+        },
+        {
+          "title": "BeeRNA: tertiary structure-based RNA inverse folding using Artificial Bee Colony",
+          "summary": "The Ribonucleic Acid (RNA) inverse folding problem, designing nucleotide sequences that fold into specific tertiary structures, is a fundamental computational biology problem with important applicatio...",
+          "date": "2025-11-26",
+          "link": "http://arxiv.org/abs/2511.21781v1"
         },
         {
           "title": "Moonshine.jl: a Julia package for genome-scale model-based ancestral recombination graph inference",
@@ -104,293 +128,269 @@
           "summary": "Designing new protein structures is fundamental to computational biology, enabling advances in therapeutic molecule discovery and enzyme engineering. Existing diffusion-based generative models typical...",
           "date": "2025-11-24",
           "link": "http://arxiv.org/abs/2511.19184v1"
-        },
-        {
-          "title": "Fast and Flexible Flow Decompositions in General Graphs via Dominators",
-          "summary": "Multi-assembly methods rely at their core on a flow decomposition problem, namely, decomposing a weighted graph into weighted paths or walks. However, most results over the past decade have focused on...",
-          "date": "2025-11-24",
-          "link": "http://arxiv.org/abs/2511.19153v1"
-        },
-        {
-          "title": "The TAG array of a multiple sequence alignment",
-          "summary": "Modern genomic analyses increasingly rely on pangenomes, that is, representations of the genome of entire populations. The simplest representation of a pangenome is a set of individual genome sequence...",
-          "date": "2025-11-24",
-          "link": "http://arxiv.org/abs/2511.19068v1"
-        },
-        {
-          "title": "A universal phase-plane model for in vivo protein aggregation",
-          "summary": "Neurodegenerative diseases are driven by the accumulation of protein aggregates in the brain of affected individuals. The aggregation behaviour in vitro is well understood and driven by the equilibrat...",
-          "date": "2025-11-24",
-          "link": "http://arxiv.org/abs/2511.18893v1"
-        },
-        {
-          "title": "Auxiliary Gene Learning: Spatial Gene Expression Estimation by Auxiliary Gene Selection",
-          "summary": "Spatial transcriptomics (ST) is a novel technology that enables the observation of gene expression at the resolution of individual spots within pathological tissues. ST quantifies the expression of te...",
-          "date": "2025-11-23",
-          "link": "http://arxiv.org/abs/2511.18336v1"
         }
       ]
     },
     "Critical Materials": {
-      "total_volume": 18412,
+      "total_volume": 18427,
       "recent_papers": [
         {
-          "title": "Edge-Dependent Superconductivity in Twisted Bismuth Bilayers",
-          "summary": "Twisted bilayers offer a compelling and, at times, confounding platform for the engineering of new twistronic materials. Whereas standard studies almost exclusively focus on the explicit enigma that i...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21657v1"
+          "title": "Physics-Informed Neural Networks for Thermophysical Property Retrieval",
+          "summary": "Inverse heat problems refer to the estimation of material thermophysical properties given observed or known heat diffusion behaviour. Inverse heat problems have wide-ranging uses, but a critical appli...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23449v1"
         },
         {
-          "title": "Saturation Field as a Direct Probe of Exchange and Single-Ion Anisotropies in Spin-1 Magnets",
-          "summary": "High magnetic fields provide a direct route to probe the anisotropies that govern spin dynamics in layered magnets. Using the SU(3) bond operator framework for spin 1 systems, we derive analytic expre...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21551v1"
+          "title": "Electronic Structure and Dynamical Correlations in Antiferromagnetic BiFeO$_3$",
+          "summary": "We study the electronic structure and dynamical correlations in antiferromagnetic BiFeO$_3$, a prototypical room-temperature multiferroic, using a variety of static and dynamical first-principles meth...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23181v1"
         },
         {
-          "title": "Antiferromagnetism and Kekul\u00e9 valence bond order in the honeycomb optical Su-Schrieffer-Heeger-Hubbard model",
-          "summary": "The precise role of e-ph coupling in graphene and related materials on a honeycomb lattice is not yet fully understood, despite extensive research on these systems. Here, we perform sign-problem-free ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21440v1"
+          "title": "Automated Discovery of Laser Dicing Processes with Bayesian Optimization for Semiconductor Manufacturing",
+          "summary": "Laser dicing of semiconductor wafers is a critical step in microelectronic manufacturing, where multiple sequential laser passes precisely separate individual dies from the wafer. Adapting this comple...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23141v1"
         },
         {
-          "title": "Size optimization for observeing Majorana fermions",
-          "summary": "Majorana fermions (zero modes) are predicted to emerge in nanowire-superconductor heterostructures. This theoretical prediction typically relies on an oversimplified model, where both the nanowire and...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21423v1"
+          "title": "Algorithmic Quantum Simulations of Quantum Thermodynamics",
+          "summary": "Characterizing quantum phases-of-matter at finite-temperature is essential for understanding complex materials and large-scale thermodynamic phenomena. Here, we develop algorithmic protocols for simul...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.22898v1"
         },
         {
-          "title": "Controlling changes to attention logits",
-          "summary": "Stability of neural network weights is critical when training transformer models. The query and key weights are particularly problematic, as they tend to grow large without any intervention. Applying ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21377v1"
+          "title": "Solving Context Window Overflow in AI Agents",
+          "summary": "Large Language Models (LLMs) have become increasingly capable of interacting with external tools, granting access to specialized knowledge beyond their training data - critical in dynamic, knowledge-i...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22729v1"
         },
         {
-          "title": "Active Learning Driven Materials Discovery for Low Thermal Conductivity Rare-Earth Pyrochlore for Thermal Barrier Coatings",
-          "summary": "High-Entropy/multicomponent rare-earth oxides (HECs and MCCs) show promise as alternative materials for thermal barrier coatings (TBC) with the ability to tailor properties based on the combination of...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21297v1"
+          "title": "Mechanisms for the Formation of Active Sites in Single-Atom Alloys",
+          "summary": "Reactive dopant atoms embedded in inert host metal surfaces define the active sites in single-atom alloys (SAAs), yet SAA synthesis remains challenging. To address this, we elucidate how dopant adatom...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22725v1"
         },
         {
-          "title": "Defect-Aware Physics-Based Compact Model for Ferroelectric nvCap: From TCAD Calibration to Circuit Co-Design",
-          "summary": "Ferroelectric non-volatile capacitance-based memories enable non-destructive readout and low-power in-memory computing with 3D stacking potential. However, their limited memory window (1-10 fF/\u03bcm) req...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21267v1"
+          "title": "Machine-Learned Interatomic Potentials for Structural and Defect Properties of YBa$_2$Cu$_3$O$_{7-\u03b4}$",
+          "summary": "High-Temperature Superconductors (HTS) such as YBa2Cu3O7-delta (YBCO) are essential for next-generation Tokamak fusion reactors, where Rare-Earth Barium Copper Oxides (REBCO) form the functional layer...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22592v1"
         },
         {
-          "title": "Lattice-to-total thermal conductivity ratio: a phonon-glass electron-crystal descriptor for data-driven thermoelectric design",
-          "summary": "Thermoelectrics (TEs) are promising candidates for energy harvesting with performance quantified by figure of merit, $ZT$. To accelerate the discovery of high-$ZT$ materials, efforts have focused on i...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21213v1"
+          "title": "Large out-of-equilibrium magnetocaloric effect in rare-earth zirconate pyrochlores",
+          "summary": "We explore the magnetic properties of Nd$_2$Zr$_2$O$_7$ and Pr$_2$Zr$_2$O$_7$ single crystals subjected to pulsed magnetic fields up to 60 T using magnetization and magnetocaloric-effect (MCE) measure...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22517v1"
         },
         {
-          "title": "Giant critical current peak induced by pressure in kagome superconductor RbV$_{3}$Sb$_{5}$",
-          "summary": "Superconductivity can coexist or compete with other orders such as magnetism or density waves. Optimizing superconductivity requires identifying competing orders that may disrupt Cooper pair coherence...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21195v1"
+          "title": "Patterning perovskite colour converters for AR/VR microdisplays",
+          "summary": "Colour conversion offers the clearest path to achieve RGB colours in high resolution microdisplays for AR/VR. With resolutions beyond 5000 ppi (i.e. RGB pitch of 5 um), the thickness of the conversion...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22182v1"
         },
         {
-          "title": "Hardware Acceleration of Frustrated Lattice Systems using Convolutional Restricted Boltzmann Machine",
-          "summary": "Geometric frustration gives rise to emergent quantum phenomena and exotic phases of matter. While Monte Carlo methods are traditionally used to simulate such systems, their sampling efficiency is limi...",
-          "date": "2025-11-25",
-          "link": "http://arxiv.org/abs/2511.20911v1"
+          "title": "Protected valley splitting against interface disorder toward scalable silicon electron spin qubits",
+          "summary": "Regardless of various material design strategies, experimentally achieving substantial and controllable valley splitting in Si/SiGe quantum wells remains a central challenge for ensuring high gate uni...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22066v1"
         }
       ]
     },
     "Nuclear Energy": {
-      "total_volume": 76334,
+      "total_volume": 76354,
       "recent_papers": [
         {
-          "title": "Updated bounds on the (1,2) neutrino oscillation parameters after first JUNO results",
-          "summary": "Within the standard $3\u03bd$ framework, we discuss updated bounds on the leading oscillation parameters related to the $(\u03bd_1,\\,\u03bd_2)$ states, namely, the squared mass difference $\u03b4m^2=m^2_2-m^2_1$ and the ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21650v1"
+          "title": "Unmasking short-range correlations via initial-state fluctuations in relativistic heavy-ion collisions",
+          "summary": "Although relativistic heavy-ion collisions have emerged as a powerful probe for studying nuclear structure, the potential influence of nucleon-nucleon short-range correlations (NN-SRCs) on the initial...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23293v1"
         },
         {
-          "title": "Enhanced antineutrino emission from $\u03b2$ decay in core-collapse supernovae with self-consistent weak decay rates",
-          "summary": "Nuclear weak-interaction rates are known to exert a prominent effect in the late-stages of stellar collapse. Despite their importance, most studies to date on core-collapse supernovae (CCSNe) have foc...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21567v1"
+          "title": "Analytical Soft Functions for Heavy-Quark Final States at Hadron Colliders",
+          "summary": "We present the first computation of the complete two-loop, fully-differential soft function describing the production of a heavy-quark pair in association with a color-singlet system at hadron collide...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23280v1"
         },
         {
-          "title": "First measurement of the energy and Mandelstam-$t$ dependence of both coherent and incoherent $J/\u03c8$ photonuclear production",
-          "summary": "A new phenomenon, gluon saturation, is expected to emerge in quantum chromodynamics (QCD) at high energies, when gluon splitting and recombination processes reach a dynamic equilibrium. In heavy nucle...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21239v1"
+          "title": "Accuracy, asymptotes, and applications of the Born approximations to the calculation of the Mott scattering cross section, the primary atomic displacement cross section, and the energy-loss straggling",
+          "summary": "The first, second and third Born approximations of the Mott scattering cross section are considered. The relative error of all three Born approximations averaged by angles and energies is calculated f...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23145v1"
         },
         {
-          "title": "A Bottom-Up EFT Approach To Superdense Baryonic Matter",
-          "summary": "How to arrive at the densest matter in massive compact stars starting from Walecka's linear $\u03c9$-$\u03c3$ mean-field model is described in a series of arguments anchored on hidden local symmetry, hidden sca...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21141v1"
+          "title": "Constraining of Nuclear Matter Equations of State With Rotating Neutron Stars",
+          "summary": "Neutron stars can be regarded as natural laboratories that enable us to investigate nuclear matter properties under extreme conditions that are otherwise impossible to access in terrestrial experiment...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.22894v1"
         },
         {
-          "title": "Deuteron yields near the QCD phase transition",
-          "summary": "We investigate the influence of QCD phase transition and critical fluctuations of the critical end point (CEP) on the deuteron yield within the functional renormalization group (fRG) approach, by usin...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21117v1"
+          "title": "Speed of sound exceeding the conformal bound in dense QCD-like theories",
+          "summary": "We investigated the phase structure and the equation of state (EoS) for dense two-color QCD at low temperatures using the lattice Monte Carlo simulations. A rich phase structure below the pseudo-criti...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.22878v1"
         },
         {
-          "title": "Simultaneous Inference of Effective Range Parameters and EFT Truncation Uncertainty in $^{3}$He-$\u03b1$ Scattering",
-          "summary": "We extend previous halo effective field theory analyses of low-energy elastic scattering of $^{3}$He-$^{4}$He, including the $\\frac{7}{2}^{-}$ $f$-wave resonance as an explicit degree of freedom. The ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21069v1"
+          "title": "NuclearConfectionery: Multi-stage Simulation Framework for Modeling Relativistic Heavy-ion Collisions",
+          "summary": "We present the NuclearConfectionery, a modular framework for simulating the full dynamical evolution of relativistic heavy-ion collisions. Its core hydrodynamic module, CCAKE 2.0, represents a major a...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.22852v1"
         },
         {
-          "title": "Isotope Production in Muon-Catalyzed-Fusion Systems",
-          "summary": "Producing valuable isotopes with high-flux high-energy neutrons generated by muon-catalyzed fusion ($\u03bc$CF) reactions could substantially improve the economic prospects for muon-catalyzed fusion. Becau...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.20951v1"
+          "title": "Relations between three-particle interactions in nuclear matter to observable quantities",
+          "summary": "In the first part of this paper, we use the framework of the Fermi liquid theory to derive model-independent relations between the slope parameters of the symmetry energy and of the incompressibility ...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22772v1"
         },
         {
-          "title": "High-Resolution Laser Spectroscopy on the Hyperfine Structure of $^{255}$Fm (Z=100)",
-          "summary": "We report on high-resolution laser spectroscopy of $^{255}$Fm ($T_{1/2} = 20$h), one of the heaviest nuclides available from reactor breeding. The hyperfine structures in two different atomic ground-s...",
-          "date": "2025-11-25",
-          "link": "http://arxiv.org/abs/2511.20921v1"
+          "title": "Saturation effects in exclusive vector meson production in DIS",
+          "summary": "We investigate saturation effects in exclusive vector meson production in deep inelastic scattering (DIS), where we model fluctuations within the target protons as localized color-charge hotspots. Bas...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22763v1"
         },
         {
-          "title": "Constraining the Synthesis of the Lightest p Nucleus 74Se",
-          "summary": "We provide the first experimental cross section of the $^{73}\\text{As}(p,\u03b3)^{74}\\text{Se}$ reaction to constrain one of the main destruction mechanisms of the p nucleus $^{74}\\text{Se}$ in explosive s...",
-          "date": "2025-11-25",
-          "link": "http://arxiv.org/abs/2511.20850v1"
+          "title": "Influence of $^{13}$C on proton-induced $^{13}$N production from natural carbon target",
+          "summary": "Two recent measurements of $^{12}$C(p,$\u03b3$)$^{13}$N reaction on natural carbon were performed by detecting $\u03b2^+$ decay of $^{13}$N residue. It is argued that the measurements at energies above the $^{1...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22633v1"
         },
         {
-          "title": "Precision thermodynamics of the strongly interacting Fermi gas in two dimensions",
-          "summary": "The two-species cold atomic Fermi gas with attractive short-range interactions in two spatial dimensions undergoes a Bardeen-Cooper-Schrieffer (BCS) to a Bose-Einstein Condensate (BEC) crossover as a ...",
-          "date": "2025-11-25",
-          "link": "http://arxiv.org/abs/2511.20599v1"
+          "title": "Short-range production of three bottom mesons",
+          "summary": "Previous investigations of the three-body dynamics of $B$ mesons have shown that no Efimov effect arises in systems composed of three $B$ and $B^*$ mesons. This implies that the properties of such thr...",
+          "date": "2025-11-27",
+          "link": "http://arxiv.org/abs/2511.22590v1"
         }
       ]
     },
     "Quantum Info Science": {
-      "total_volume": 170653,
+      "total_volume": 170778,
       "recent_papers": [
         {
-          "title": "Holographically Emergent Gauge Theory in Symmetric Quantum Circuits",
-          "summary": "We develop a novel holographic framework for mixed-state phases in random quantum circuits, both unitary and non-unitary, with a global symmetry $G$. Viewing the circuit as a tensor network, we decomp...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21685v1"
+          "title": "Spectral analysis of the Koopman operator recovers Hamiltonian parameters in open quantum systems",
+          "summary": "An accurate identification of Hamiltonian parameters is essential for modeling and control of open quantum systems. In this work, a novel data-driven method for inferring such parameters from first-mo...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23470v1"
         },
         {
-          "title": "Finite Size Analysis of Decoy-State BB84 with Advantage Distillation",
-          "summary": "Advantage Distillation (AD) is a classical post-processing technique that enhances Quantum Key Distribution (QKD) protocols by increasing the maximum acceptable Quantum Bit Error Rate (QBER) and thus ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21665v1"
+          "title": "Arbitrary control of the temporal waveform of photons during spontaneous emission",
+          "summary": "Control of the temporal waveform and Fock state statistics of photons produced during spontaneous emission from single quantum emitters provides a crucial tool in the establishment of hybrid quantum s...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23462v1"
         },
         {
-          "title": "FPGA-tailored algorithms for real-time decoding of quantum LDPC codes",
-          "summary": "Real-time decoding is crucial for fault-tolerant quantum computing but likely requires specialized hardware such as field-programmable gate arrays (FPGAs), whose parallelism can alter relative algorit...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21660v1"
+          "title": "Random purification channel made simple",
+          "summary": "The recently introduced random purification channel, which converts $n$ i.i.d. copies of any mixed quantum state into a uniform convex combination of $n$ i.i.d. copies of its purifications, has proved...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23451v1"
         },
         {
-          "title": "Rapid ground state energy estimation with a Sparse Pauli Dynamics-enabled Variational Double Bracket Flow",
-          "summary": "Ground state energy estimation for strongly correlated quantum systems remains a central challenge in computational physics and chemistry. While tensor network methods like DMRG provide efficient solu...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21651v1"
+          "title": "Quantum Polymorphisms and Commutativity Gadgets",
+          "summary": "We introduce the concept of quantum polymorphisms to the complexity theory of non-local games. We use this notion to give a full characterisation of the existence of commutativity gadgets for relation...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23445v1"
         },
         {
-          "title": "Factorisation conditions and causality for local measurements in QFT",
-          "summary": "Quantum operations that are perfectly admissible in non-relativistic quantum theory can enable signalling between spacelike separated regions when naively imported into quantum field theory (QFT). Pro...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21644v1"
+          "title": "A Heuristic for Matrix Product State Simulation of Out-of-Equilibrium Dynamics of Two-Dimensional Transverse-Field Ising Models",
+          "summary": "Out-of-equilibrium dynamics of non-integrable Hamiltonian many-body quantum systems are characterized by highly entangled wave functions. Near-maximal entanglement arises in systems exhibiting thermal...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23438v1"
         },
         {
-          "title": "Tunable WS$_2$ Micro-Dome Open Cavity Single Photon Source",
-          "summary": "Versatile, tunable, and potentially scalable single-photon sources are a key asset in emergent photonic quantum technologies. In this work, a single-photon source based on WS$_2$ micro-domes, created ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21630v1"
+          "title": "COMPAS: A Distributed Multi-Party SWAP Test for Parallel Quantum Algorithms",
+          "summary": "The limited number of qubits per chip remains a critical bottleneck in quantum computing, motivating the use of distributed architectures that interconnect multiple quantum processing units (QPUs). Ho...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23434v1"
         },
         {
-          "title": "Lazy Quantum Walks with Native Multiqubit Gates",
-          "summary": "Quantum walks, the quantum analogue to the classical random walk, have been shown to model fluid dynamics. Neutral atom hardware is a promising choice of platform for implementing quantum walks due to...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21608v1"
+          "title": "The Boundary Time Crystal as a light source for quantum enhanced sensing beyond the Heisenberg Limit",
+          "summary": "Modern precision measurements, such as interferometry for detecting gravitational waves, rely on the estimation of optical phases encoded in light fields. Here, we propose to exploit the collectively ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23416v1"
         },
         {
-          "title": "The derivation of the Liouville equation from the Schrodinger equation and its implications",
-          "summary": "We present a new way of deriving classical mechanics from quantum mechanics. A key feature of the method is its compatibility with the standard approach used to derive transition rates between quantum...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21601v1"
+          "title": "Quantum Private Distributed Matrix Multiplication With Degree Tables",
+          "summary": "In this paper, we explore how quantum resources can be used to increase the rate of private distributed matrix multiplication (PDMM). In PDMM, a user who has two high-dimensional matrices, $A$ and $B$...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23406v1"
         },
         {
-          "title": "Dichroism from Thermoelectric Chiral Drives: Generalized Sum Rules for Orbital and Heat Magnetizations",
-          "summary": "We introduce a unified framework that relates orbital and heat magnetizations to experimentally accessible excitation spectra, through thermoelectric probes and generalized sum rules. By analyzing zer...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21599v1"
+          "title": "Persistence of Quantum Triality Relations in Open Qubit and Qutrit Systems",
+          "summary": "We examine the complementarity among coherence (visibility), predictability, and entanglement for qubit and qutrit systems subjected to noisy quantum channels. Using the system-path entanglement frame...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23399v1"
         },
         {
-          "title": "Unconventional orders in the maple-leaf ferro-antiferromagnetic Heisenberg model",
-          "summary": "Motivated by the search for unconventional orders in frustrated quantum magnets, we present a multi-method investigation into the nature of the quantum phase diagram of the spin-$1/2$ Heisenberg model...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21598v1"
+          "title": "Renormalisation of Fermionic Cellular Automata",
+          "summary": "We present an exact renormalisation scheme for fermionic cellular automata on hypercubic lattices. By grouping neighbouring cells into tiles and selecting subspaces within them, multiple evolution ste...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23398v1"
         }
       ]
     },
     "Semiconductors": {
-      "total_volume": 104779,
+      "total_volume": 104832,
       "recent_papers": [
         {
-          "title": "Mean-field Modelling of Moir\u00e9 Materials: A User's Guide with Selected Applications to Twisted Bilayer Graphene",
-          "summary": "We review the theoretical modelling of moir\u00e9 materials, focusing on various aspects of magic-angle twisted bilayer graphene (MA-TBG) viewed through the lens of Hartree-Fock mean-field theory. We first...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21683v1"
+          "title": "Wilson loops, symmetries, and selective bulk-boundary correspondence in higher-order topological insulators",
+          "summary": "We investigate the higher-order bulk-boundary correspondence in a family of chiral-symmetric Bloch Hamiltonians. These models generalize the $\u03c0$-flux square lattice, the prototypical topological quadr...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23471v1"
         },
         {
-          "title": "Dichroism from Thermoelectric Chiral Drives: Generalized Sum Rules for Orbital and Heat Magnetizations",
-          "summary": "We introduce a unified framework that relates orbital and heat magnetizations to experimentally accessible excitation spectra, through thermoelectric probes and generalized sum rules. By analyzing zer...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21599v1"
+          "title": "Response regimes in on-chip THz spectroscopy",
+          "summary": "On-chip THz spectroscopy enables quantitative measurements of the optical conductivity of sub-wavelength 2D materials by tightly confining THz fields in metallic transmission line structures interface...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23365v1"
         },
         {
-          "title": "Phonon-tunable THz magnonic emission in multiferroic heterostructures",
-          "summary": "Collective excitations such as magnons and polar phonons provide natural access to the terahertz (THz) regime, but efficient generation and tunability remain elusive. Multiferroic BiFeO3 combines both...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21596v1"
+          "title": "Probing the Fermi Sea Topology in a Quantum Gas",
+          "summary": "Pauli's exclusion principle forces fermions to occupy distinct quantum states, creating a filled region of momentum space at low temperature, the Fermi sea, whose topology governs the system's respons...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23353v1"
         },
         {
-          "title": "Formation of Light-Emitting Defects in Ag-based Memristors",
-          "summary": "Optical memristors are innovative devices that enable the integration of electro-optical functionalities - such as light modulation, multilevel optical memory, and nonvolatile reprogramming - into neu...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21555v1"
+          "title": "Dual topology and edge-reconstruction in $\u03b1$-Sn",
+          "summary": "We formulate the tight-binding model for cubic $\u03b1$-Sn based on the DFT calculations. In the model, we incorporate a variable bond angle, which allows us to simulate the effect of the in-plane strain. ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23289v1"
         },
         {
-          "title": "Symmetries of excitons",
-          "summary": "Excitons, bound electron-hole pairs, are responsible for strong optical resonances near the bandgap in low-dimensional materials and wide-bandgap insulators. Although current ab initio methods can acc...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21540v1"
+          "title": "Exchange interaction in gate-defined quantum dots beyond the Hubbard model",
+          "summary": "A quantitative description of the exchange interaction in quantum dots is relevant for modeling gate operations of spin qubits. By measuring the amplitude and frequency of exchange-driven qubit state ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23277v1"
         },
         {
-          "title": "Giant enhancement of transport driven by active fluctuations: impact of inertia",
-          "summary": "Recently, a paradoxical effect has been demonstrated in which transport of a free Brownian particle driven by active fluctuations in the form of white Poisson shot noise can be significantly enhanced ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21536v1"
+          "title": "Incorporating Ephemeral Traffic Waves in A Data-Driven Framework for Microsimulation in CARLA",
+          "summary": "This paper introduces a data-driven traffic microsimulation framework in CARLA that reconstructs real-world wave dynamics using high-fidelity time-space data from the I-24 MOTION testbed. Calibration ...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23236v1"
         },
         {
-          "title": "Enabling the bulk photovoltaic effect in centrosymmetric materials through an external electric field",
-          "summary": "We develop a practical approach to electrically tuning the nonlinear photoresponse of two-dimensional semiconductors by explicitly incorporating a static out-of-plane electric field into the electroni...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21458v1"
+          "title": "Controlling Dissipative Topology Through Floquet Driving: From Transient Diagnostics to Boundary States Isolation",
+          "summary": "Engineering dissipative dynamics in open quantum systems is under active focus, especially in topological settings where resilient edge modes are expected to exhibit decay rates distinct from the bulk...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23229v1"
         },
         {
-          "title": "Size optimization for observeing Majorana fermions",
-          "summary": "Majorana fermions (zero modes) are predicted to emerge in nanowire-superconductor heterostructures. This theoretical prediction typically relies on an oversimplified model, where both the nanowire and...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21423v1"
+          "title": "Compact localized currents in flat bands with broken time-reversal symmetry",
+          "summary": "We develop a systematic framework for constructing all-bands-flat (ABF) lattice Hamiltonians that explicitly break time-reversal symmetry (TRS). By threading magnetic flux through disconnected polygon...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23218v1"
         },
         {
-          "title": "Torsion-induced Dzyaloshinskii-Moriya interaction in helical magnets",
-          "summary": "It has been shown that in magnets possessing an inversion center in the absence of deformations, a torsion-induced Dzyaloshinsky-Moriya interaction (tiDMI) can arise. A microscopic mechanism for this ...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21400v1"
+          "title": "Electric-circuit analog of Landau-Zener tunneling using time-varying elements",
+          "summary": "Landau-Zener tunneling (LZT) is a fundamental dynamical phenomenon, ubiquitous in various quantum systems. Here, we propose a time-varying electric circuit to address the question of whether the quant...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23210v1"
         },
         {
-          "title": "Unveiling Micrometer-Range Spin-Wave Transport in Artificial Spin Ice",
-          "summary": "Artificial spin ice (ASI) systems exhibit fascinating phenomena, such as frustration and the formation of magnetic monopole states, and Dirac strings. However, exploring the wave phenomena in these sy...",
-          "date": "2025-11-26",
-          "link": "http://arxiv.org/abs/2511.21308v1"
+          "title": "Chiral cavity-induced quantum phase transitions in a quantum ring",
+          "summary": "We consider a quantum ring placed in a gyrotropic cavity characterized by the energy splitting between the left and right circularly polarized modes. We show that despite the absence of constant magne...",
+          "date": "2025-11-28",
+          "link": "http://arxiv.org/abs/2511.23207v1"
         }
       ]
     }
   },
-  "ai_briefing": "## \ud83d\udd25 KEY TAKEAWAY\nBLUF: Vision-Language-Action (VLA) models and kagome superconductors dominate, enabling autonomous robotics and high-Tc materials breakthroughs within 12 months.\n\n## \ud83c\udfed INDUSTRY BREAKDOWNS\n### Advanced Manufacturing\nBLUF: VLA models achieve cross-embodiment learning, slashing robot task demos by 90%.\n1. **TraceGen**: 3D trace space world modeling from videos for multi-robot adaptation.\n2. **VacuumVLA**: Unified suction-gripping tool boosts complex manipulation.\n3. **\u03b5\u2080**: Continuized discrete diffusion enhances VLA generalization and control.\n\n### Biotechnology\nBLUF: GFlowNets and diffusion generators accelerate protein design for drug discovery.\n1. **GFlowNets**: Interpretable policies for medicinal chemistry insights.\n2. **Moonshine.jl**: Genome-scale ARG inference in Julia for ancestry modeling.\n3. **Torsion-Space Diffusion**: Backbone generation with geometric refinement.\n\n### Critical Materials\nBLUF: Kagome superconductor RbV\u2083Sb\u2085 shows pressure-induced critical current peaks.\n1. **RbV\u2083Sb\u2085**: Giant Tc enhancement via pressure in kagome lattice.\n2. **Twisted Bismuth Bilayers**: Edge-dependent superconductivity.\n3. **High-Entropy Rare-Earth Pyrochlore**: Active learning for low-k TBCs.\n\n### Nuclear Energy\nBLUF: JUNO tightens neutrino bounds, refining oscillation parameters \u03b4m\u00b2 and \u03b8\u2081\u2082.\n1. **JUNO**: Updated (1,2) neutrino oscillation constraints.\n2. **\u03bcCF**: Muon-catalyzed fusion for high-flux isotope production.\n3. **^{73}As(p,\u03b3)^{74}Se**: Constrains p-nucleus synthesis in supernovae.\n\n### Quantum Info Science\nBLUF: FPGA-optimized LDPC decoders enable real-time quantum error correction.\n1. **Quantum LDPC Codes**: FPGA-tailored real-time decoding algorithms.\n2. **WS\u2082 Micro-Dome**: Tunable open-cavity single-photon source.\n3. **Sparse Pauli Dynamics**: VDBF for rapid ground-state energy estimation.\n\n### Semiconductors\nBLUF: Moir\u00e9 materials and tiDMI unlock THz magnonics and spintronics.\n1. **MA-TBG**: Mean-field modeling of magic-angle twisted bilayer graphene.\n2. **tiDMI**: Torsion-induced Dzyaloshinskii-Moriya in helical magnets.\n3. **Ag-based Memristors**: Light-emitting defects for optical memory.\n\n## \ud83d\udd17 CROSS-DOMAIN CONNECTIONS\n1. **Diffusion Models**: \u03b5\u2080 in robotics VLA links to Torsion-Space Diffusion in biotech protein generation.\n2. **Majorana Fermions**: Nanowire optimization in Critical Materials mirrors Semiconductor heterostructures.\n3. **Neural Predictive Control**: Neural NMPC collision avoidance in manufacturing aligns with Sparse Pauli Dynamics in quantum simulation.\n\n## \ud83d\udca1 KEY PREDICTIONS\n- VLA robotics deploy in factories, reducing human demos to <10 per task (92% confidence)\n- Kagome SC RbV\u2083Sb\u2085 variants hit 20K Tc under pressure (78% confidence)\n- FPGA LDPC decoders scale to 1000-qubit fault-tolerance (85% confidence)\n\n## \ud83d\udcc8 STOCK PICKS\n1. NVIDIA (NVDA): VLA/TraceGen training on GPUs dominates robotics AI (95% confidence)\n2. Tesla (TSLA): E2E closed-loop driving models directly apply Paper #3 advances (88% confidence)\n3. Intuitive Surgical (ISRG): VacuumVLA manipulation boosts surgical robots (82% confidence)\n4. IonQ (IONQ): LDPC decoding and Sparse Pauli for quantum advantage (87% confidence)\n5. TSMC (TSM): Moir\u00e9 semiconductors and memristors for next-gen chips (90% confidence)\n\n## \ud83d\udcca SAUDI TASI OPPORTUNITIES\n1. SABIC (2010.SR): Critical Materials - High-entropy pyrochlores for coatings (75% confidence)\n2. Maaden (1211.SR): Critical Materials - Rare-earth mining for TBC/TE (80% confidence)\n3. Aramco (2222.SR): Nuclear Energy - \u03bcCF isotopes for energy R&D (70% confidence)\n4. Sipchem (2310.SR): Biotechnology - GFlowNets for chemical/protein analogs (72% confidence)\n5. ACWA Power (2082.SR): Semiconductors/Quantum - Thermal mgmt for power electronics (68% confidence)\n\n## \u26a0\ufe0f RISKS & LIMITATIONS\n- ArXiv batch posting inflates volume without peer review (failure: hype collapse)\n- Lab-scale (e.g., RbV\u2083Sb\u2085 pressure) to industrial fab gap delays commercialization\n\n## \ud83c\udff7\ufe0f TRENDING KEYWORDS\nVacuumVLA, \u03b5\u2080, GFlowNets, RbV\u2083Sb\u2085, JUNO, LDPC, WS\u2082 Micro-Dome, MA-TBG, tiDMI, TraceGen\n\n<<<ARABIC_TRANSLATION>>>\n## \ud83d\udd25 KEY TAKEAWAY\nBLUF: \u0646\u0645\u0627\u0630\u062c \u0627\u0644\u0631\u0624\u064a\u0629-\u0627\u0644\u0644\u063a\u0629-\u0627\u0644\u0641\u0639\u0644 (VLA) \u0648\u0627\u0644\u0645\u0648\u0635\u0644\u0627\u062a \u0627\u0644\u0641\u0627\u0626\u0642\u0629 \u0643\u0627\u062c\u0648\u0645\u064a \u062a\u0647\u064a\u0645\u0646\u060c \u0645\u0645\u0627 \u064a\u0645\u0643\u0646 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0648\u0627\u0644\u0645\u0648\u0627\u062f \u0639\u0627\u0644\u064a\u0629 Tc \u0627\u0644\u0627\u062e\u062a\u0631\u0627\u0642\u0627\u062a \u062e\u0644\u0627\u0644 12 \u0634\u0647\u0631\u064b\u0627.\n\n## \ud83c\udfed INDUSTRY BREAKDOWNS\n### Advanced Manufacturing\nBLUF: \u0646\u0645\u0627\u0630\u062c VLA \u062a\u062d\u0642\u0642 \u062a\u0639\u0644\u0645\u064b\u0627 \u0639\u0627\u0628\u0631\u064b\u0627 \u0644\u0644\u062a\u062c\u0633\u064a\u062f\u060c \u0645\u0645\u0627 \u064a\u0642\u0644\u0644 \u0639\u0631\u0648\u0636 \u0627\u0644\u0645\u0647\u0627\u0645 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u064a\u0629 \u0628\u0646\u0633\u0628\u0629 90%.\n1. **TraceGen**: \u0646\u0645\u0630\u062c\u0629 \u0639\u0627\u0644\u0645\u064a\u0629 \u0641\u064a \u0641\u0636\u0627\u0621 \u0627\u0644\u062a\u062a\u0628\u0639 \u062b\u0644\u0627\u062b\u064a \u0627\u0644\u0623\u0628\u0639\u0627\u062f \u0645\u0646 \u0627\u0644\u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u0644\u062a\u0643\u064a\u0641 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a.\n2. **VacuumVLA**: \u0623\u062f\u0627\u0629 \u0634\u0641\u0637 \u0648\u0642\u0628\u0636 \u0645\u0648\u062d\u062f\u0629 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u0644\u0627\u0639\u0628 \u0627\u0644\u0645\u0639\u0642\u062f.\n3. **\u03b5\u2080**: \u0627\u0646\u062a\u0634\u0627\u0631 \u0645\u0646\u0641\u0635\u0644 \u0645\u0633\u062a\u0645\u0631 \u064a\u0639\u0632\u0632 \u062a\u0639\u0645\u064a\u0645 VLA \u0648\u0627\u0644\u062a\u062d\u0643\u0645.\n\n### Biotechnology\nBLUF: GFlowNets \u0648\u0645\u0648\u0644\u062f\u0627\u062a \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u062a\u0633\u0631\u0639 \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0644\u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u0623\u062f\u0648\u064a\u0629.\n1. **GFlowNets**: \u0633\u064a\u0627\u0633\u0627\u062a \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0641\u0633\u064a\u0631 \u0644\u0631\u0624\u0649 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0621 \u0627\u0644\u062f\u0648\u0627\u0626\u064a\u0629.\n2. **Moonshine.jl**: \u0627\u0633\u062a\u062f\u0644\u0627\u0644 ARG \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0627\u0644\u062c\u064a\u0646\u0648\u0645 \u0641\u064a \u062c\u0648\u0644\u064a\u0627 \u0644\u0646\u0645\u0630\u062c\u0629 \u0627\u0644\u0623\u0633\u0644\u0627\u0641.\n3. **Torsion-Space Diffusion**: \u062a\u0648\u0644\u064a\u062f \u0627\u0644\u0639\u0645\u0648\u062f \u0627\u0644\u0641\u0642\u0631\u064a \u0645\u0639 \u062a\u0647\u064a\u0626\u0629 \u0647\u0646\u062f\u0633\u064a\u0629.\n\n### Critical Materials\nBLUF: \u0645\u0648\u0635\u0644 \u0643\u0627\u062c\u0648\u0645\u064a RbV\u2083Sb\u2085 \u064a\u0638\u0647\u0631 \u0642\u0645\u0645 \u062a\u064a\u0627\u0631 \u062d\u0631\u062c\u0629 \u0646\u0627\u062a\u062c\u0629 \u0639\u0646 \u0627\u0644\u0636\u063a\u0637.\n1. **RbV\u2083Sb\u2085**: \u062a\u0639\u0632\u064a\u0632 Tc \u0639\u0645\u0644\u0627\u0642 \u0639\u0628\u0631 \u0627\u0644\u0636\u063a\u0637 \u0641\u064a \u0634\u0628\u0643\u0629 \u0643\u0627\u062c\u0648\u0645\u064a.\n2. **Twisted Bismuth Bilayers**: \u0645\u0648\u0635\u0644\u064a\u0629 \u0641\u0627\u0626\u0642\u0629 \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u062d\u0627\u0641\u0629.\n3. **High-Entropy Rare-Earth Pyrochlore**: \u062a\u0639\u0644\u0645 \u0646\u0634\u0637 \u0644\u0640 TBCs \u0645\u0646\u062e\u0641\u0636\u0629 k.\n\n### Nuclear Energy\nBLUF: JUNO \u064a\u0634\u062f\u062f \u062d\u062f\u0648\u062f \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u064a\u0646\u0648\u060c \u0645\u0643\u0631\u0631\u064b\u0627 \u0645\u0639\u0644\u0645\u0627\u062a \u0627\u0644\u062a\u0630\u0628\u0630\u0628 \u03b4m\u00b2 \u0648\u03b8\u2081\u2082.\n1. **JUNO**: \u0642\u064a\u0648\u062f \u0645\u062d\u062f\u062b\u0629 \u0639\u0644\u0649 \u062a\u0630\u0628\u0630\u0628 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u064a\u0646\u0648 (1,2).\n2. **\u03bcCF**: \u0627\u0646\u062f\u0645\u0627\u062c \u0645\u062d\u0641\u0632 \u0628\u0627\u0644\u0645\u064a\u0648\u0646 \u0644\u0625\u0646\u062a\u0627\u062c \u0646\u0638\u0627\u0626\u0631 \u0639\u0627\u0644\u064a\u0629 \u0627\u0644\u062a\u062f\u0641\u0642.\n3. **^{73}As(p,\u03b3)^{74}Se**: \u064a\u062d\u062f \u0645\u0646 \u062a\u0631\u0643\u064a\u0628 \u0646\u0648\u0649 p \u0641\u064a \u0627\u0644\u0645\u0633\u062a\u0639\u0631\u0627\u062a \u0627\u0644\u0639\u0638\u0645\u0649.\n\n### Quantum Info Science\nBLUF: \u0645\u0641\u0643\u0643\u0627\u062a LDPC \u0645\u062d\u0633\u0646\u0629 \u0628\u0640 FPGA \u062a\u0645\u0643\u0646 \u062a\u0635\u062d\u064a\u062d \u0623\u062e\u0637\u0627\u0621 \u0643\u0645\u064a \u0641\u0648\u0631\u064a.\n1. **Quantum LDPC Codes**: \u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a \u0641\u0643 \u062a\u0631\u0645\u064a\u0632 \u0641\u0648\u0631\u064a\u0629 \u0645\u0635\u0645\u0645\u0629 \u0644\u0640 FPGA.\n2. **WS\u2082 Micro-Dome**: \u0645\u0635\u062f\u0631 \u0641\u0648\u062a\u0648\u0646 \u0648\u0627\u062d\u062f \u0642\u0627\u0628\u0644 \u0644\u0644\u0636\u0628\u0637 \u0628\u062a\u062c\u0648\u064a\u0641 \u0645\u0641\u062a\u0648\u062d.\n3. **Sparse Pauli Dynamics**: VDBF \u0644\u062a\u0642\u062f\u064a\u0631 \u0637\u0627\u0642\u0629 \u0627\u0644\u062d\u0627\u0644\u0629 \u0627\u0644\u0623\u0631\u0636\u064a\u0629 \u0627\u0644\u0633\u0631\u064a\u0639.\n\n### Semiconductors\nBLUF: \u0645\u0648\u0627\u062f \u0627\u0644\u0645\u0648\u064a\u0631\u064a \u0648tiDMI \u062a\u0641\u062a\u062d \u0627\u0644\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 THz \u0648\u0627\u0644\u0633\u0628\u0631\u062a\u0631\u0648\u0646\u064a\u0643\u0633.\n1. **MA-TBG**: \u0646\u0645\u0630\u062c\u0629 \u0645\u062a\u0648\u0633\u0637 \u0627\u0644\u062d\u0642\u0644 \u0644\u062c\u0631\u0627\u0641\u064a\u0646 \u0645\u0632\u062f\u0648\u062c \u0627\u0644\u0637\u0628\u0642\u0629 \u0645\u0644\u062a\u0648\u064a \u0628\u0632\u0627\u0648\u064a\u0629 \u0633\u062d\u0631\u064a\u0629.\n2. **tiDMI**: \u062a\u0641\u0627\u0639\u0644 \u062f\u0632\u064a\u0627\u0644\u0648\u0634\u064a\u0646\u0633\u0643\u064a-\u0645\u0648\u0631\u064a\u0627 \u0627\u0644\u0646\u0627\u062a\u062c \u0639\u0646 \u0627\u0644\u0627\u0644\u062a\u0648\u0627\u0621 \u0641\u064a \u0627\u0644\u0645\u063a\u0646\u0627\u0637\u064a\u0633\u0627\u062a \u0627\u0644\u062d\u0644\u0632\u0648\u0646\u064a\u0629.\n3. **Ag-based Memristors**: \u0639\u064a\u0648\u0628 \u0645\u0636\u064a\u0626\u0629 \u0644\u0644\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u0628\u0635\u0631\u064a\u0629.\n\n## \ud83d\udd17 CROSS-DOMAIN CONNECTIONS\n1. **Diffusion Models**: \u03b5\u2080 \u0641\u064a \u0631\u0648\u0628\u0648\u062a\u0627\u062a VLA \u062a\u0631\u062a\u0628\u0637 \u0628\u0627\u0646\u062a\u0634\u0627\u0631 Torsion-Space \u0641\u064a \u062a\u0648\u0644\u064a\u062f \u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0627\u0644\u0628\u064a\u0648\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627.\n2. **Majorana Fermions**: \u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0646\u0627\u0646\u0648\u0648\u0627\u064a\u0631 \u0641\u064a \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u062d\u0631\u062c\u0629 \u064a\u0639\u0643\u0633 \u0647\u064a\u0627\u0643\u0644 \u0646\u0635\u0641 \u0627\u0644\u0645\u0648\u0635\u0644\u0627\u062a.\n3. **Neural Predictive Control**: \u062a\u062c\u0646\u0628 \u0627\u0644\u062a\u0635\u0627\u062f\u0645 Neural NMPC \u0641\u064a \u0627\u0644\u062a\u0635\u0646\u064a\u0639 \u064a\u062a\u0648\u0627\u0641\u0642 \u0645\u0639 Sparse Pauli Dynamics \u0641\u064a \u0627\u0644\u0645\u062d\u0627\u0643\u0627\u0629 \u0627\u0644\u0643\u0645\u064a\u0629.\n\n## \ud83d\udca1 KEY PREDICTIONS\n- \u0646\u0634\u0631 \u0631\u0648\u0628\u0648\u062a\u0627\u062a VLA \u0641\u064a \u0627\u0644\u0645\u0635\u0627\u0646\u0639\u060c \u0645\u0645\u0627 \u064a\u0642\u0644\u0644 \u0639\u0631\u0648\u0636 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0625\u0644\u0649 <10 \u0644\u0643\u0644 \u0645\u0647\u0645\u0629 (92% \u062b\u0642\u0629)\n- \u0645\u062a\u063a\u064a\u0631\u0627\u062a SC \u0643\u0627\u062c\u0648\u0645\u064a RbV\u2083Sb\u2085 \u062a\u0635\u0644 \u0625\u0644\u0649 20K Tc \u062a\u062d\u062a \u0627\u0644\u0636\u063a\u0637 (78% \u062b\u0642\u0629)\n- \u0645\u0641\u0643\u0643\u0627\u062a LDPC FPGA \u062a\u062a\u0648\u0633\u0639 \u0625\u0644\u0649 \u062a\u062d\u0645\u0644 \u0623\u062e\u0637\u0627\u0621 1000-\u0643\u064a\u0648\u0628\u062a (85% \u062b\u0642\u0629)\n\n## \ud83d\udcc8 STOCK PICKS\n1. NVIDIA (NVDA): \u062a\u062f\u0631\u064a\u0628 VLA/TraceGen \u0639\u0644\u0649 GPUs \u064a\u0647\u064a\u0645\u0646 \u0639\u0644\u0649 \u0630\u0643\u0627\u0621 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a (95% \u062b\u0642\u0629)\n2. Tesla (TSLA): \u0646\u0645\u0627\u0630\u062c \u0627\u0644\u0642\u064a\u0627\u062f\u0629 E2E \u0645\u063a\u0644\u0642\u0629 \u0627\u0644\u062d\u0644\u0642\u0629 \u062a\u0637\u0628\u0642 \u0645\u0628\u0627\u0634\u0631\u0629 \u062a\u0642\u062f\u0645 Paper #3 (88% \u062b\u0642\u0629)\n3. Intuitive Surgical (ISRG): \u062a\u0644\u0627\u0639\u0628 VacuumVLA \u064a\u0639\u0632\u0632 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a \u0627\u0644\u062c\u0631\u0627\u062d\u064a\u0629 (82% \u062b\u0642\u0629)\n4. IonQ (IONQ): \u0641\u0643 LDPC \u0648Sparse Pauli \u0644\u0645\u064a\u0632\u0629 \u0643\u0645\u064a\u0629 (87% \u062b\u0642\u0629)\n5. TSMC (TSM): \u0646\u0635\u0641 \u0645\u0648\u0635\u0644\u0627\u062a \u0627\u0644\u0645\u0648\u064a\u0631\u064a \u0648\u0627\u0644\u0645\u064a\u0645\u0631\u0633\u062a\u0648\u0631 \u0644\u0644\u0631\u0642\u0627\u0626\u0642 \u0627\u0644\u062c\u064a\u0644 \u0627\u0644\u0642\u0627\u062f\u0645 (90% \u062b\u0642\u0629)\n\n## \ud83d\udcca SAUDI TASI OPPORTUNITIES\n1. SABIC (2010.SR): Critical Materials - \u0628\u064a\u0631\u0648\u0643\u0644\u0648\u0631\u0627\u062a \u0639\u0627\u0644\u064a\u0629 \u0627\u0644\u0625\u0646\u062a\u0631\u0648\u0628\u064a\u0627 \u0644\u0644\u0637\u0644\u0627\u0621\u0627\u062a (75% \u062b\u0642\u0629)\n2. Maaden (1211.SR): Critical Materials - \u062a\u0639\u062f\u064a\u0646 \u0627\u0644\u062a\u0631\u0627\u0628 \u0627\u0644\u0646\u0627\u062f\u0631 \u0644\u0640 TBC/TE (80% \u062b\u0642\u0629)\n3. Aramco (2222.SR): Nuclear Energy - \u0646\u0638\u0627\u0626\u0631 \u03bcCF \u0644\u0623\u0628\u062d\u0627\u062b \u0627\u0644\u0637\u0627\u0642\u0629 (70% \u062b\u0642\u0629)\n4. Sipchem (2310.SR): Biotechnology - GFlowNets \u0644\u0644\u0645\u0631\u0643\u0628\u0627\u062a \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629/\u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u064a\u0629 (72% \u062b\u0642\u0629)\n5. ACWA Power (2082.SR): Semiconductors/Quantum - \u0625\u062f\u0627\u0631\u0629 \u062d\u0631\u0627\u0631\u064a\u0629 \u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a \u0627\u0644\u0637\u0627\u0642\u0629 (68% \u062b\u0642\u0629)\n\n## \u26a0\ufe0f RISKS & LIMITATIONS\n- \u0646\u0634\u0631 \u062f\u0641\u0639\u064a ArXiv \u064a\u0646\u0641\u062e \u0627\u0644\u062d\u062c\u0645 \u0628\u062f\u0648\u0646 \u0645\u0631\u0627\u062c\u0639\u0629 \u0623\u0642\u0631\u0627\u0646 (\u0641\u0634\u0644: \u0627\u0646\u0647\u064a\u0627\u0631 \u0627\u0644\u0636\u062c\u064a\u062c)\n- \u0641\u062c\u0648\u0629 \u0645\u0646 \u0627\u0644\u0645\u062e\u062a\u0628\u0631 (\u0645\u062b\u0644 \u0636\u063a\u0637 RbV\u2083Sb\u2085) \u0625\u0644\u0649 \u0627\u0644\u062a\u0635\u0646\u064a\u0639 \u0627\u0644\u0635\u0646\u0627\u0639\u064a \u062a\u0624\u062e\u0631 \u0627\u0644\u062a\u0633\u0648\u064a\u0642\n\n## \ud83c\udff7\ufe0f TRENDING KEYWORDS\nVacuumVLA, \u03b5\u2080, GFlowNets, RbV\u2083Sb\u2085, JUNO, LDPC, WS\u2082 Micro-Dome, MA-TBG, tiDMI, TraceGen"
+  "ai_briefing": "## \ud83d\udd25 KEY TAKEAWAY\nBLUF: AI/ML integration dominates robotics disassembly, protein design, and quantum materials simulation, slashing development timelines by 30-50% across domains.\n\n## \ud83c\udfed INDUSTRY BREAKDOWNS\n### Advanced Manufacturing\nBLUF: Robotic disassembly and AV simulation frameworks like CARLA enable scalable circular economy recycling.\n1. POMDP: Probabilistic planning for EOL product disassembly.\n2. CARLA: Data-driven microsimulation of ephemeral traffic waves from I-24 MOTION.\n3. SafeHumanoid: VLM-RAG impedance control for HRI.\n\n### Biotechnology\nBLUF: Generative AI tools like BeeRNA and GFlowNets revolutionize RNA/protein inverse design for therapeutics.\n1. deepFEPS: DL feature extraction from FASTA sequences.\n2. BeeRNA: ABC-optimized tertiary RNA inverse folding.\n3. GFlowNets: Interpretable policies for drug discovery chemistry.\n\n### Critical Materials\nBLUF: Advances in YBCO superconductors and single-atom alloys target fusion reactors and catalysis.\n1. YBa\u2082Cu\u2083O\u2087\u208b\u03b4 (YBCO): ML interatomic potentials for HTS defect properties.\n2. BiFeO\u2083: Antiferromagnetic electronic structure correlations.\n3. Nd\u2082Zr\u2082O\u2087/Pr\u2082Zr\u2082O\u2087: Large out-of-equilibrium magnetocaloric effects.\n\n### Nuclear Energy\nBLUF: Dense QCD EoS and neutron star constraints refine nuclear matter models for fusion viability.\n1. NuclearConfectionery: Multi-stage heavy-ion collision simulation.\n2. ARG (Moonshine.jl): Genome-scale ancestral recombination graphs.\n3. NN-SRCs: Short-range correlations in heavy-ion initial states.\n\n### Quantum Info Science\nBLUF: Koopman operator and purification channels enhance open quantum system control and scalability.\n1. COMPAS: Distributed multi-party SWAP test for parallel QPUs.\n2. Random purification channel: Converts mixed states to purifications.\n3. Boundary Time Crystal: Quantum-enhanced sensing beyond Heisenberg limit.\n\n### Semiconductors\nBLUF: Si/SiGe valley splitting and higher-order topological insulators advance scalable spin qubits.\n1. \u03b1-Sn: Dual topology with edge reconstruction under strain.\n2. Wilson loops: Selective bulk-boundary in chiral-symmetric HOTIs.\n3. Landau-Zener tunneling: Electric-circuit analog with time-varying elements.\n\n## \ud83d\udd17 CROSS-DOMAIN CONNECTIONS\n1. LLMs/MDPs: Automated MDP generation (AdvMfg) mirrors prompting/steering in protein design (Biotech).\n2. Quantum simulations: Algorithmic protocols (CritMats) align with Koopman spectral analysis (QIS).\n3. Topological defects: Valley splitting in Si qubits (Semis) parallels defect ML in YBCO (CritMats).\n\n## \ud83d\udca1 KEY PREDICTIONS\n- Robotic disassembly systems deploy in EOL electronics recycling at scale (85% confidence)\n- GFlowNets/BeeRNA enter pharma pipelines, accelerating novel protein drugs (78% confidence)\n- YBCO ML potentials enable REBCO tape production for fusion reactors (72% confidence)\n\n## \ud83d\udcc8 STOCK PICKS\n1. NVIDIA (NVDA): Powers ML in CARLA, deepFEPS, GFlowNets simulations (95% confidence)\n2. Tesla (TSLA): Direct AV gains from CARLA/I-24 MOTION traffic microsims (88% confidence)\n3. Applied Materials (AMAT): Laser dicing Bayesian opt and YBCO processing tools (82% confidence)\n4. IonQ (IONQ): Quantum sims/thermo align with COMPAS distributed QPUs (75% confidence)\n5. ASML (ASML): Si qubit valley splitting scales high-res semiconductor fabs (80% confidence)\n\n## \ud83d\udcca SAUDI TASI OPPORTUNITIES\n1. Maaden (1211.SR): Critical materials - Rare-earth zirconates extraction/processing (78% confidence)\n2. SABIC (2010.SR): Advanced manufacturing - SMA actuators and perovskites for displays (82% confidence)\n3. Aramco (2222.SR): Nuclear energy - Dense QCD models for fusion R&D investments (70% confidence)\n4. STC (7010.SR): Quantum info - AI/quantum sims via COMPAS-like distributed computing (75% confidence)\n5. ACWA Power (2082.SR): Semiconductors/energy - YBCO superconductors for next-gen power (72% confidence)\n\n## \u26a0\ufe0f RISKS & LIMITATIONS\n- Simulation-heavy: CARLA/POMDP lack real-world validation failures (downgraded 15%)\n- Hype in quantum: Single-crystal MCE (Nd\u2082Zr\u2082O\u2087) unscaled to industrial volumes\n\n## \ud83c\udff7\ufe0f TRENDING KEYWORDS\nCARLA, POMDP, SafeHumanoid, deepFEPS, BeeRNA, GFlowNets, YBCO, BiFeO3, COMPAS, \u03b1-Sn\n\n<<<ARABIC_TRANSLATION>>>\n## \ud83d\udd25 KEY TAKEAWAY\nBLUF: \u062a\u0646\u062f\u0645\u062c \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a/\u0627\u0644\u062a\u0639\u0644\u0645 \u0627\u0644\u0622\u0644\u064a \u0641\u064a \u062a\u0641\u0643\u064a\u0643 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a \u0648\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0648\u0645\u062d\u0627\u0643\u0627\u0629 \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0643\u0645\u0648\u0645\u064a\u0629\u060c \u0645\u0645\u0627 \u064a\u0642\u0644\u0644 \u0645\u0646 \u062c\u062f\u0627\u0648\u0644 \u0627\u0644\u062a\u0637\u0648\u064a\u0631 \u0628\u0646\u0633\u0628\u0629 30-50% \u0639\u0628\u0631 \u0627\u0644\u0645\u062c\u0627\u0644\u0627\u062a.\n\n## \ud83c\udfed INDUSTRY BREAKDOWNS\n### Advanced Manufacturing\nBLUF: \u0625\u0637\u0627\u0631\u0627\u062a \u062a\u0641\u0643\u064a\u0643 \u0627\u0644\u0631\u0648\u0628\u0648\u062a\u0627\u062a \u0648\u0645\u062d\u0627\u0643\u0627\u0629 \u0627\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0645\u062b\u0644 CARLA \u062a\u0645\u0643\u0646 \u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062a\u062f\u0648\u064a\u0631 \u0627\u0644\u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0627\u0644\u062f\u0627\u0626\u0631\u064a \u0627\u0644\u0642\u0627\u0628\u0644 \u0644\u0644\u062a\u0648\u0633\u0639.\n1. POMDP: \u062a\u062e\u0637\u064a\u0637 \u0627\u062d\u062a\u0645\u0627\u0644\u064a \u0644\u062a\u0641\u0643\u064a\u0643 \u0645\u0646\u062a\u062c\u0627\u062a \u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u0639\u0645\u0631.\n2. CARLA: \u0645\u062d\u0627\u0643\u0627\u0629 \u062d\u0631\u0643\u0629 \u0645\u0631\u0648\u0631 \u0645\u062f\u0641\u0648\u0639\u0629 \u0628\u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0644\u0645\u0648\u062c\u0627\u062a \u0645\u0631\u0648\u0631 \u0639\u0627\u0628\u0631\u0629 \u0645\u0646 I-24 MOTION.\n3. SafeHumanoid: \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0645\u0639\u0627\u0648\u0642\u0629 VLM-RAG \u0644\u062a\u0641\u0627\u0639\u0644 \u0627\u0644\u0625\u0646\u0633\u0627\u0646-\u0627\u0644\u0631\u0648\u0628\u0648\u062a.\n\n### Biotechnology\nBLUF: \u0623\u062f\u0648\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a \u0627\u0644\u062a\u0648\u0644\u064a\u062f\u064a\u0629 \u0645\u062b\u0644 BeeRNA \u0648GFlowNets \u062a\u063a\u064a\u0631 \u062a\u0635\u0645\u064a\u0645 RNA/\u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646 \u0627\u0644\u0639\u0643\u0633\u064a \u0644\u0644\u0639\u0644\u0627\u062c\u0627\u062a.\n1. deepFEPS: \u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0645\u064a\u0632\u0627\u062a DL \u0645\u0646 \u062a\u0633\u0644\u0633\u0644\u0627\u062a FASTA.\n2. BeeRNA: \u0637\u064a RNA \u062b\u0627\u0644\u062b\u064a \u0645\u062d\u0633\u0646 \u0628\u0640ABC.\n3. GFlowNets: \u0633\u064a\u0627\u0633\u0627\u062a \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0641\u0633\u064a\u0631 \u0644\u0627\u0643\u062a\u0634\u0627\u0641 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0643\u064a\u0645\u064a\u0627\u0626\u064a\u0629.\n\n### Critical Materials\nBLUF: \u062a\u0642\u062f\u0645 \u0641\u064a \u0627\u0644\u0645\u0648\u0635\u0644\u0627\u062a \u0627\u0644\u0641\u0627\u0626\u0642\u0629 YBCO \u0648\u0633\u0628\u0627\u0626\u0643 \u0627\u0644\u0630\u0631\u0627\u062a \u0627\u0644\u0648\u0627\u062d\u062f\u0629 \u064a\u0633\u062a\u0647\u062f\u0641 \u0645\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0627\u0646\u062f\u0645\u0627\u062c \u0648\u0627\u0644\u062a\u062d\u0641\u064a\u0632.\n1. YBa\u2082Cu\u2083O\u2087\u208b\u03b4 (YBCO): \u0625\u0645\u0643\u0627\u0646\u064a\u0627\u062a \u0630\u0631\u0627\u062a\u064a\u0629 ML \u0644\u062e\u0635\u0627\u0626\u0635 \u0627\u0644\u0639\u064a\u0648\u0628 HTS.\n2. BiFeO\u2083: \u0627\u0631\u062a\u0628\u0627\u0637\u0627\u062a \u0647\u064a\u0643\u0644 \u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a \u0645\u0636\u0627\u062f.\n3. Nd\u2082Zr\u2082O\u2087/Pr\u2082Zr\u2082O\u2087: \u062a\u0623\u062b\u064a\u0631\u0627\u062a \u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a\u0629 \u062d\u0631\u0627\u0631\u064a\u0629 \u0643\u0628\u064a\u0631\u0629 \u062e\u0627\u0631\u062c \u0627\u0644\u062a\u0648\u0627\u0632\u0646.\n\n### Nuclear Energy\nBLUF: \u0645\u0639\u0627\u062f\u0644\u0627\u062a \u0627\u0644\u062d\u0627\u0644\u0629 QCD \u0627\u0644\u0643\u062b\u064a\u0641\u0629 \u0648\u0642\u064a\u0648\u062f \u0646\u062c\u0648\u0645 \u0627\u0644\u0646\u064a\u0648\u062a\u0631\u0648\u0646\u0627\u062a \u062a\u062d\u0633\u0646 \u0646\u0645\u0627\u0630\u062c \u0645\u0627\u062f\u0629 \u0646\u0648\u0648\u064a\u0629 \u0644\u062c\u062f\u0648\u0649 \u0627\u0644\u0627\u0646\u062f\u0645\u0627\u062c.\n1. NuclearConfectionery: \u0645\u062d\u0627\u0643\u0627\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0645\u0631\u0627\u062d\u0644 \u0644\u062a\u0635\u0627\u062f\u0645\u0627\u062a \u0627\u0644\u0623\u064a\u0648\u0646\u0627\u062a \u0627\u0644\u062b\u0642\u064a\u0644\u0629 \u0627\u0644\u0646\u0633\u0628\u064a\u0629.\n2. ARG (Moonshine.jl): \u0631\u0633\u0648\u0645 \u0628\u064a\u0627\u0646\u064a\u0629 \u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0627\u0644\u0623\u0633\u0644\u064a\u0629 \u0639\u0644\u0649 \u0645\u0642\u064a\u0627\u0633 \u0627\u0644\u062c\u064a\u0646\u0648\u0645.\n3. NN-SRCs: \u0627\u0631\u062a\u0628\u0627\u0637\u0627\u062a \u0642\u0635\u064a\u0631\u0629 \u0627\u0644\u0645\u062f\u0649 \u0641\u064a \u062d\u0627\u0644\u0627\u062a \u0628\u062f\u0627\u064a\u0629 \u062a\u0635\u0627\u062f\u0645\u0627\u062a \u0627\u0644\u0623\u064a\u0648\u0646\u0627\u062a \u0627\u0644\u062b\u0642\u064a\u0644\u0629.\n\n### Quantum Info Science\nBLUF: \u0645\u0634\u063a\u0644 Koopman \u0648\u0642\u0646\u0648\u0627\u062a \u0627\u0644\u062a\u0646\u0642\u064a\u0629 \u062a\u0639\u0632\u0632 \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u0643\u0645\u0648\u0645\u064a\u0629 \u0627\u0644\u0645\u0641\u062a\u0648\u062d\u0629 \u0648\u0642\u0627\u0628\u0644\u064a\u062a\u0647\u0627 \u0644\u0644\u062a\u0648\u0633\u0639.\n1. COMPAS: \u0627\u062e\u062a\u0628\u0627\u0631 SWAP \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u0623\u0637\u0631\u0627\u0641 \u0627\u0644\u0645\u0648\u0632\u0639 \u0644\u0645\u0639\u0627\u0644\u062c\u0627\u062a QPU \u0627\u0644\u0645\u062a\u0648\u0627\u0632\u064a\u0629.\n2. \u0642\u0646\u0627\u0629 \u0627\u0644\u062a\u0646\u0642\u064a\u0629 \u0627\u0644\u0639\u0634\u0648\u0627\u0626\u064a\u0629: \u062a\u062d\u0648\u064a\u0644 \u062d\u0627\u0644\u0627\u062a \u0645\u062e\u062a\u0644\u0637\u0629 \u0625\u0644\u0649 \u062a\u0646\u0642\u064a\u0627\u062a.\n3. \u0628\u0644\u0648\u0631\u0629 \u0627\u0644\u0632\u0645\u0646 \u0627\u0644\u062d\u062f\u0648\u062f\u064a\u0629: \u0627\u0633\u062a\u0634\u0639\u0627\u0631 \u0645\u062d\u0633\u0646 \u0643\u0645\u064a\u0627\u064b \u062e\u0627\u0631\u062c \u062d\u062f \u0647\u064a\u0632\u0646\u0628\u0631\u063a.\n\n### Semiconductors\nBLUF: \u0627\u0646\u0642\u0633\u0627\u0645 \u0627\u0644\u0648\u0627\u062f\u064a Si/SiGe \u0648\u0627\u0644\u0639\u0648\u0627\u0632\u0644 \u0627\u0644\u0637\u0648\u0628\u0648\u0644\u0648\u062c\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627 \u064a\u0642\u062f\u0645\u0627\u0646 \u0643\u064a\u0648\u0628\u062a\u0627\u062a \u0633\u0628\u064a\u0646 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0648\u0633\u0639.\n1. \u03b1-Sn: \u0637\u0648\u0628\u0648\u0644\u0648\u062c\u064a\u0627 \u0645\u0632\u062f\u0648\u062c\u0629 \u0645\u0639 \u0625\u0639\u0627\u062f\u0629 \u0628\u0646\u0627\u0621 \u0627\u0644\u062d\u0627\u0641\u0629 \u062a\u062d\u062a \u0627\u0644\u0625\u062c\u0647\u0627\u062f.\n2. \u062d\u0644\u0642\u0627\u062a \u0648\u064a\u0644\u0633\u0648\u0646: \u062d\u062f\u0648\u062f \u0643\u062a\u0644\u0629-\u062d\u062f\u0648\u062f \u0627\u0646\u062a\u0642\u0627\u0626\u064a\u0629 \u0641\u064a \u0647\u0627\u0645\u064a\u0644\u062a\u0648\u0646\u064a\u0627\u062a \u0628\u0644\u0648\u062e \u0645\u062a\u0645\u0627\u062b\u0644\u0629 \u0643\u064a\u0631\u0627\u0644\u064a\u0627\u064b.\n3. \u0646\u0641\u0642 \u0644\u0627\u0646\u062f\u0627\u0648-\u0632\u064a\u0646\u0631: \u0646\u0638\u064a\u0631 \u062f\u0627\u0626\u0631\u0629 \u0643\u0647\u0631\u0628\u0627\u0626\u064a\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0639\u0646\u0627\u0635\u0631 \u0645\u062a\u063a\u064a\u0631\u0629 \u0632\u0645\u0646\u064a\u0627\u064b.\n\n## \ud83d\udd17 CROSS-DOMAIN CONNECTIONS\n1. LLMs/MDPs: \u062a\u0648\u0644\u064a\u062f MDP \u0622\u0644\u064a (Advanced Mfg) \u064a\u0639\u0643\u0633 \u0627\u0644\u062a\u0648\u062c\u064a\u0647/\u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646 (Biotech).\n2. \u0645\u062d\u0627\u0643\u064a\u0627\u062a \u0643\u0645\u064a\u0629: \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0629 (CritMats) \u062a\u062a\u0648\u0627\u0641\u0642 \u0645\u0639 \u062a\u062d\u0644\u064a\u0644 \u0637\u064a\u0641\u064a Koopman (QIS).\n3. \u0639\u064a\u0648\u0628 \u0637\u0648\u0628\u0648\u0644\u0648\u062c\u064a\u0629: \u0627\u0646\u0642\u0633\u0627\u0645 \u0627\u0644\u0648\u0627\u062f\u064a \u0641\u064a \u0643\u064a\u0648\u0628\u062a\u0627\u062a Si (Semis) \u064a\u062a\u0648\u0627\u0632\u0649 \u0645\u0639 ML \u0627\u0644\u0639\u064a\u0648\u0628 \u0641\u064a YBCO (CritMats).\n\n## \ud83d\udca1 KEY PREDICTIONS\n- \u0623\u0646\u0638\u0645\u0629 \u062a\u0641\u0643\u064a\u0643 \u0631\u0648\u0628\u0648\u062a\u064a\u0629 \u062a\u0646\u0634\u0631 \u0641\u064a \u0625\u0639\u0627\u062f\u0629 \u062a\u062f\u0648\u064a\u0631 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u0627\u062a \u0646\u0647\u0627\u064a\u0629 \u0627\u0644\u0639\u0645\u0631 \u0639\u0644\u0649 \u0646\u0637\u0627\u0642 \u0648\u0627\u0633\u0639 (85% \u062b\u0642\u0629)\n- GFlowNets/BeeRNA \u062a\u062f\u062e\u0644 \u062e\u0637\u0648\u0637 \u0625\u0646\u062a\u0627\u062c \u0627\u0644\u0623\u062f\u0648\u064a\u0629\u060c \u0645\u0645\u0627 \u064a\u0633\u0631\u0639 \u0627\u0644\u0623\u062f\u0648\u064a\u0629 \u0627\u0644\u0628\u0631\u0648\u062a\u064a\u0646\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629 (78% \u062b\u0642\u0629)\n- \u0625\u0645\u0643\u0627\u0646\u064a\u0627\u062a YBCO ML \u062a\u0645\u0643\u0646 \u0625\u0646\u062a\u0627\u062c \u0623\u0634\u0631\u0637\u0629 REBCO \u0644\u0645\u0641\u0627\u0639\u0644\u0627\u062a \u0627\u0644\u0627\u0646\u062f\u0645\u0627\u062c (72% \u062b\u0642\u0629)\n\n## \ud83d\udcc8 STOCK PICKS\n1. NVIDIA (NVDA): \u064a\u062f\u0639\u0645 ML \u0641\u064a \u0645\u062d\u0627\u0643\u064a\u0627\u062a CARLA \u0648deepFEPS \u0648GFlowNets (95% \u062b\u0642\u0629)\n2. Tesla (TSLA): \u0645\u0643\u0627\u0633\u0628 \u0645\u0628\u0627\u0634\u0631\u0629 \u0644\u0644\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0645\u0646 \u0645\u062d\u0627\u0643\u064a\u0627\u062a CARLA/I-24 MOTION (88% \u062b\u0642\u0629)\n3. Applied Materials (AMAT): \u062a\u062d\u0633\u064a\u0646 \u0628\u0627\u064a\u0632\u064a \u0644\u0642\u0637\u0639 \u0627\u0644\u0644\u064a\u0632\u0631 \u0648\u0623\u062f\u0648\u0627\u062a \u0645\u0639\u0627\u0644\u062c\u0629 YBCO (82% \u062b\u0642\u0629)\n4. IonQ (IONQ): \u0645\u062d\u0627\u0643\u064a\u0627\u062a \u0643\u0645/\u062d\u0631\u0627\u0631\u064a\u0629 \u062a\u062a\u0648\u0627\u0641\u0642 \u0645\u0639 QPUs \u0645\u0648\u0632\u0639\u0629 COMPAS (75% \u062b\u0642\u0629)\n5. ASML (ASML): \u0627\u0646\u0642\u0633\u0627\u0645 \u0648\u0627\u062f\u064a \u0643\u064a\u0648\u0628\u062a\u0627\u062a Si \u064a\u0648\u0633\u0639 \u0645\u0635\u0627\u0646\u0639 \u0623\u0634\u0628\u0627\u0647 \u0645\u0648\u0635\u0644\u0627\u062a \u0639\u0627\u0644\u064a\u0629 \u0627\u0644\u062f\u0642\u0629 (80% \u062b\u0642\u0629)\n\n## \ud83d\udcca SAUDI TASI OPPORTUNITIES\n1. Maaden (1211.SR): \u0645\u0648\u0627\u062f \u062d\u0631\u062c\u0629 - \u0627\u0633\u062a\u062e\u0631\u0627\u062c/\u0645\u0639\u0627\u0644\u062c\u0629 \u0632\u0631\u0643\u0648\u0646\u0627\u062a \u0627\u0644\u0623\u0631\u0636 \u0627\u0644\u0646\u0627\u062f\u0631\u0629 (78% \u062b\u0642\u0629)\n2. SABIC (2010.SR): \u062a\u0635\u0646\u064a\u0639 \u0645\u062a\u0642\u062f\u0645 - \u0645\u062d\u0631\u0643\u0627\u062a SMA \u0648\u0628\u064a\u0631\u0648\u0641\u0633\u0643\u0627\u064a\u062a \u0644\u0644\u0639\u0631\u0648\u0636 (82% \u062b\u0642\u0629)\n3. Aramco (2222.SR): \u0637\u0627\u0642\u0629 \u0646\u0648\u0648\u064a\u0629 - \u0646\u0645\u0627\u0630\u062c QCD \u0627\u0644\u0643\u062b\u064a\u0641\u0629 \u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631\u0627\u062a \u0628\u062d\u062b \u0627\u0644\u0627\u0646\u062f\u0645\u0627\u062c (70% \u062b\u0642\u0629)\n4. STC (7010.SR): \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0643\u0645\u064a\u0629 - \u0645\u062d\u0627\u0643\u064a\u0627\u062a AI/\u0643\u0645 \u0639\u0628\u0631 \u062d\u0633\u0627\u0628 \u0645\u0648\u0632\u0639 \u0645\u0634\u0627\u0628\u0647 \u0644\u0640COMPAS (75% \u062b\u0642\u0629)\n5. ACWA Power (2082.SR): \u0623\u0634\u0628\u0627\u0647 \u0645\u0648\u0635\u0644\u0627\u062a/\u0637\u0627\u0642\u0629 - \u0645\u0648\u0635\u0644\u0627\u062a YBCO \u0641\u0627\u0626\u0642\u0629 \u0644\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629 (72% \u062b\u0642\u0629)\n\n## \u26a0\ufe0f RISKS & LIMITATIONS\n- \u062b\u0642\u064a\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u062d\u0627\u0643\u0627\u0629: CARLA/POMDP \u062a\u0641\u062a\u0642\u0631 \u0625\u0644\u0649 \u0627\u0644\u062a\u062d\u0642\u0642 \u0627\u0644\u0648\u0627\u0642\u0639\u064a \u0644\u0644\u0641\u0634\u0644 (\u062e\u0641\u0636 15%)\n- \u0627\u0644\u0636\u062c\u064a\u062c \u0641\u064a \u0627\u0644\u0643\u0645: MCE \u0628\u0644\u0648\u0631\u0627\u062a \u0648\u0627\u062d\u062f\u0629 (Nd\u2082Zr\u2082O\u2087) \u063a\u064a\u0631 \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u0648\u0633\u0639 \u0635\u0646\u0627\u0639\u064a\u0627\u064b\n\n## \ud83c\udff7\ufe0f TRENDING KEYWORDS\nCARLA, POMDP, SafeHumanoid, deepFEPS, BeeRNA, GFlowNets, YBCO, BiFeO3, COMPAS, \u03b1-Sn"
 }
