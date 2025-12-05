@@ -1,74 +1,86 @@
 {
-  "generated_at": "2025-12-04T06:17:05.926840",
+  "generated_at": "2025-12-05T06:17:18.489498",
   "domains": {
     "Advanced Manufacturing": {
-      "total_volume": 47382,
+      "total_volume": 47414,
       "recent_papers": [
         {
-          "title": "SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL",
-          "summary": "Vision Language Models (VLMs) demonstrate strong qualitative visual understanding, but struggle with metrically precise spatial reasoning required for embodied applications. The agentic paradigm promi...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04069v1"
+          "title": "STARE-VLA: Progressive Stage-Aware Reinforcement for Fine-Tuning Vision-Language-Action Models",
+          "summary": "Recent advances in Vision-Language-Action (VLA) models, powered by large language models and reinforcement learning-based fine-tuning, have shown remarkable progress in robotic manipulation. Existing ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05107v1"
         },
         {
-          "title": "Artificial Microsaccade Compensation: Stable Vision for an Ornithopter",
-          "summary": "Animals with foveated vision, including humans, experience microsaccades, small, rapid eye movements that they are not aware of. Inspired by this phenomenon, we develop a method for \"Artificial Micros...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03995v1"
+          "title": "NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation",
+          "summary": "Standard diffusion corrupts data using Gaussian noise whose Fourier coefficients have random magnitudes and random phases. While effective for unconditional or text-to-image generation, corrupting pha...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05106v1"
         },
         {
-          "title": "When to Say \"Hi\" - Learn to Open a Conversation with an in-the-wild Dataset",
-          "summary": "The social capabilities of socially interactive agents (SIA) are a key to successful and smooth interactions between the user and the SIA. A successful start of the interaction is one of the essential...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03991v1"
+          "title": "From Generated Human Videos to Physically Plausible Robot Trajectories",
+          "summary": "Video generation models are rapidly improving in their ability to synthesize human actions in novel contexts, holding the potential to serve as high-level planners for contextual robot control. To rea...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05094v1"
         },
         {
-          "title": "MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation",
-          "summary": "Agricultural robots are serving as powerful assistants across a wide range of agricultural tasks, nevertheless, still heavily relying on manual operations or railway systems for movement. The AgriVLN ...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03958v1"
+          "title": "Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints",
+          "summary": "Object geometry is key information for robot manipulation. Yet, object reconstruction is a challenging task because cameras only capture partial observations of objects, especially when occlusion occu...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05079v1"
         },
         {
-          "title": "Classification of User Satisfaction in HRI with Social Signals in the Wild",
-          "summary": "Socially interactive agents (SIAs) are being used in various scenarios and are nearing productive deployment. Evaluating user satisfaction with SIAs' performance is a key factor in designing the inter...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03945v1"
+          "title": "Contact-Implicit Modeling and Simulation of a Snake Robot on Compliant and Granular Terrain",
+          "summary": "This thesis presents a unified modeling and simulation framework for analyzing sidewinding and tumbling locomotion of the COBRA snake robot across rigid, compliant, and granular terrains. A contact-im...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05008v1"
         },
         {
-          "title": "MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction",
-          "summary": "Recent stateful recurrent neural networks have achieved remarkable progress on static 3D reconstruction but remain vulnerable to motion-induced artifacts, where non-rigid regions corrupt attention pro...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03939v1"
+          "title": "Introducing V-Soft Pro: a Modular Platform for a Transhumeral Prosthesis with Controllable Stiffness",
+          "summary": "Current upper limb prostheses aim to enhance user independence in daily activities by incorporating basic motor functions. However, they fall short of replicating the natural movement and interaction ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04998v1"
         },
         {
-          "title": "Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response",
-          "summary": "Autonomous driving planning systems perform nearly perfectly in routine scenarios using lightweight, rule-based methods but still struggle in dense urban traffic, where lane changes and merges require...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03936v1"
+          "title": "Preliminary Analysis and Simulation of a Compact Variable Stiffness Wrist",
+          "summary": "Variable Stiffness Actuators prove invaluable for robotics applications in unstructured environments, fostering safe interactions and enhancing task adaptability. Nevertheless, their mechanical design...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04973v1"
         },
         {
-          "title": "Hierarchical Vision Language Action Model Using Success and Failure Demonstrations",
-          "summary": "Prior Vision-Language-Action (VLA) models are typically trained on teleoperated successful demonstrations, while discarding numerous failed attempts that occur naturally during data collection. Howeve...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03913v1"
+          "title": "Hybrid-Diffusion Models: Combining Open-loop Routines with Visuomotor Diffusion Policies",
+          "summary": "Despite the fact that visuomotor-based policies obtained via imitation learning demonstrate good performances in complex manipulation tasks, they usually struggle to achieve the same accuracy and spee...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04960v1"
         },
         {
-          "title": "Autonomous Reinforcement Learning Robot Control with Intel's Loihi 2 Neuromorphic Hardware",
-          "summary": "We present an end-to-end pipeline for deploying reinforcement learning (RL) trained Artificial Neural Networks (ANNs) on neuromorphic hardware by converting them into spiking Sigma-Delta Neural Networ...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03911v1"
+          "title": "FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization",
+          "summary": "Autoregressive vision-language-action (VLA) models have recently demonstrated strong capabilities in robotic manipulation. However, their core process of action tokenization often involves a trade-off...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04952v1"
         },
         {
-          "title": "Digital Twin-based Control Co-Design of Full Vehicle Active Suspensions via Deep Reinforcement Learning",
-          "summary": "Active suspension systems are critical for enhancing vehicle comfort, safety, and stability, yet their performance is often limited by fixed hardware designs and control strategies that cannot adapt t...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03891v1"
+          "title": "On Disturbance-Aware Minimum-Time Trajectory Planning: Evidence from Tests on a Dynamic Driving Simulator",
+          "summary": "This work investigates how disturbance-aware, robustness-embedded reference trajectories translate into driving performance when executed by professional drivers in a dynamic simulator. Three planned ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04917v1"
         }
       ]
     },
     "Biotechnology": {
-      "total_volume": 9994,
+      "total_volume": 9996,
       "recent_papers": [
+        {
+          "title": "pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase",
+          "summary": "Computing haplotypes from sequencing data, i.e. haplotype assembly, is an important component of foundational molecular and population genetics problems, including interpreting the effects of genetic ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04393v1"
+        },
+        {
+          "title": "Collective adsorption of pheromones at the water-air interface",
+          "summary": "Understanding the phase behaviour of pheromones and other messaging molecules remains a significant and largely unexplored challenge, even though it plays a central role in chemical communication. Her...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04340v1"
+        },
         {
           "title": "Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time",
           "summary": "The function of biomolecules such as proteins depends on their ability to interconvert between a wide range of structures or \"conformations.\" Researchers have endeavored for decades to develop computa...",
@@ -116,24 +128,60 @@
           "summary": "While data augmentation is widely used to train symmetry-agnostic models, it remains unclear how quickly and effectively they learn to respect symmetries. We investigate this by deriving a principled ...",
           "date": "2025-12-02",
           "link": "http://arxiv.org/abs/2512.02303v1"
-        },
-        {
-          "title": "MoRSAIK: Sequence Motif Reactor Simulation, Analysis and Inference Kit in Python",
-          "summary": "Origins of life research investigates how life could emerge from prebiotic chemistry only. One possible explanation provides the RNA world hypothesis. It states that life could emerge from RNA strands...",
-          "date": "2025-12-01",
-          "link": "http://arxiv.org/abs/2512.02204v1"
-        },
-        {
-          "title": "Consistent Synthetic Sequences Unlock Structural Diversity in Fully Atomistic De Novo Protein Design",
-          "summary": "High-quality training datasets are crucial for the development of effective protein design models, but existing synthetic datasets often include unfavorable sequence-structure pairs, impairing generat...",
-          "date": "2025-12-01",
-          "link": "http://arxiv.org/abs/2512.01976v2"
         }
       ]
     },
     "Critical Materials": {
-      "total_volume": 18465,
+      "total_volume": 18472,
       "recent_papers": [
+        {
+          "title": "Structured Light at the Extreme: Harnessing Spatiotemporal Control for High-Field Laser-Matter Interactions",
+          "summary": "This review charts the emerging paradigm of intelligent structured light for high-field laser-matter interactions, where the precise spatiotemporal and vectorial control of light is a critical degree ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05042v1"
+        },
+        {
+          "title": "Evolution of Correlated Electrons in ${\\rm La_3Ni_2O_7}$ at Ambient Pressure: a Study of Double-Counting Effect",
+          "summary": "We employ cluster extension of dynamical mean-field theory (CDMFT) to systematically investigate the impact of double counting corrections on the correlated electronic structure of ${\\rm La_3Ni_2O_7}$...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04754v1"
+        },
+        {
+          "title": "Contract-Governed Training for Earth Observation: Observed Service Agreement Graphs and Coverage-Accuracy Trade-offs",
+          "summary": "Earth observation (EO) models are frequently trained under implicit sampling policies that optimize global accuracy but provide no explicit guarantees on who (which regions, classes, or mission-critic...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04644v1"
+        },
+        {
+          "title": "Dataset creation for supervised deep learning-based analysis of microscopic images - review of important considerations and recommendations",
+          "summary": "Supervised deep learning (DL) receives great interest for automated analysis of microscopic images with an increasing body of literature supporting its potential. The development and validation of tho...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04564v1"
+        },
+        {
+          "title": "DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance",
+          "summary": "Infrared imaging plays a critical role in low-light and adverse weather conditions. However, due to the distinct characteristics of infrared images, existing foundation models such as Masked Autoencod...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04511v1"
+        },
+        {
+          "title": "Preparation and magnetic properties of (Ln0.2La0.2Nd0.2Sm0.2 Eu0.2)MnO3 (Ln = Dy, Ho, Er) high-entropy perovskite ceramics containing heavy rare earth elements",
+          "summary": "Equimolar ratio high-entropy perovskite ceramics (HEPCs) have attracted much attention due to their excellent magnetization intensity. To further enhance their magnetization intensities, (Ln0.2La0.2Nd...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04370v1"
+        },
+        {
+          "title": "Detection and imaging of chemicals and hidden explosives using terahertz time-domain spectroscopy and deep learning",
+          "summary": "Detecting concealed chemicals and explosives remains a critical challenge in global security. Terahertz time-domain spectroscopy (THz-TDS) offers a promising non-invasive and stand-off detection techn...",
+          "date": "2025-12-03",
+          "link": "http://arxiv.org/abs/2512.04330v1"
+        },
+        {
+          "title": "Enhancing solar cell efficiency of AlxIn1-xN/Si heterojunctions using an a-Si buffer: A study of material, interface and device properties",
+          "summary": "This study explores the impact of an optimized amorphous silicon (a-Si) buffer layer on AlxIn1-xN-on-Si(100) heterojunction solar cells, with Al content varying from 0% (InN) to 55%. The buffer layer ...",
+          "date": "2025-12-03",
+          "link": "http://arxiv.org/abs/2512.04243v1"
+        },
         {
           "title": "Capture into Apsidal Resonance and the Decimation of Planets around In-spiraling Binaries",
           "summary": "Transiting circumbinary planets (CBPs) are conspicuously rare, and entirely absent around stellar binaries with periods $\\leq 7$ days. Here, we exploit a secular resonance to stimulate the orbit of a ...",
@@ -145,249 +193,201 @@
           "summary": "Superconductivity is characterized by vanishing electrical resistance and magnetic flux expulsion. For conventional type II superconductors, the magnetic flux expulsion is incomplete in an applied mag...",
           "date": "2025-12-03",
           "link": "http://arxiv.org/abs/2512.03908v1"
-        },
-        {
-          "title": "Resolving Structural Transitions in Lanthanide High-Entropy Oxides",
-          "summary": "We report a temperature-composition phase diagram for the chemically disordered and CeO2-LA2O3 high entropy oxides (HEOs), where LA denotes equimolar Y, La, Sm, and Pr, delineating stability regions f...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03881v1"
-        },
-        {
-          "title": "DHICA ion-modified melanin based porous Si solar cell",
-          "summary": "This work studies photosensitivity and current-voltage characteristics under illumination of water-soluble eumelanin films based on DHICA tetramers and hybrid eumelanin/porous Si photovoltaic cells ai...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03649v1"
-        },
-        {
-          "title": "Layered XZnBi (X = Rb, Cs) with Pudding-Mold Bands, Complex Fermi Surfaces and Low Thermal Conductivity: A First-Principles Study of Thermoelectric Properties",
-          "summary": "Layered Zintl compounds exhibit significant tunability of thermoelectric (TE) parameters facilitated by their multiple elemental combinations and flexibility in stacking order within the layers. In th...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03517v1"
-        },
-        {
-          "title": "Invariant fractocohesive length in thermally aged elastomers",
-          "summary": "The fractocohesive length - the ratio between fracture toughness and work-to-fracture - provides a material-specific length scale that characterizes the size-dependent fracture behavior of pristine el...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03436v1"
-        },
-        {
-          "title": "Linear stability of nanofluid boundary-layer flow over a flat plate",
-          "summary": "The linear stability of nanofluid boundary-layer flow over a flat plate is investigated using a two-phase model that incorporates Brownian motion and thermophoresis, building upon the earlier work of ...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03414v1"
-        },
-        {
-          "title": "Origin of shallow n-type doping in AlN and Al-rich AlGaN",
-          "summary": "Achieving efficient n-type doping in AlN, a representative ultrawide bandgap (UWBG) semiconductor, remains a longstanding challenge that limits its application in high-power electronics and deep-ultra...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03390v1"
-        },
-        {
-          "title": "Understanding cold electron impact on parallel-propagating whistler chorus waves via moment-based quasilinear theory",
-          "summary": "Earth's magnetosphere hosts a wide range of collisionless particle populations that interact through various wave-particle processes. Among these, cold electrons, with energies below 100eV, often domi...",
-          "date": "2025-12-02",
-          "link": "http://arxiv.org/abs/2512.03269v1"
-        },
-        {
-          "title": "Characterisation of the LAPPD, a large area microchannel-plate PMT",
-          "summary": "We present a comprehensive characterization of the LAPPD Gen-II, a large-area microchannel-plate photomultiplier tube (MCP-PMT) equipped with a capacitively coupled sensing (readout) electrode. Two de...",
-          "date": "2025-12-02",
-          "link": "http://arxiv.org/abs/2512.02990v1"
         }
       ]
     },
     "Nuclear Energy": {
-      "total_volume": 76396,
+      "total_volume": 76411,
       "recent_papers": [
         {
-          "title": "Kinetic Mixing and Axial Charges in the Parity-Doublet Model",
-          "summary": "The standard parity doublet model with its mass-mixing mechanism fails to describe the axial charge $g_A$ of the nucleon. While $g_A = 1$ in the original Gell-Mann--Levy model, which reproduces the Ad...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03894v1"
+          "title": "First Study of the Nuclear Response to Fast Hadrons via Angular Correlations between Pions and Slow Protons in Electron-Nucleus Scattering",
+          "summary": "We report on the first measurement of angular correlations between high-energy pions and slow protons in electron-nucleus ($eA$) scattering, providing a new probe of how a nucleus responds to a fast-m...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05083v1"
         },
         {
-          "title": "Generalized Beth--Uhlenbeck entropy formula from the $\u03a6-$derivable approach",
-          "summary": "We derive a generalized Beth-Uhlenbeck formula for the entropy of a dense fermion system with strong two-particle correlations, including scattering states and bound states. We work within the $\u03a6-$der...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03876v1"
+          "title": "L\u00e9vy sources in UrQMD in Ar+Sc collisions at SPS energies",
+          "summary": "Over the past few decades, progress in femtoscopy has been driven by the interplay between experimental measurements and theoretical calculations. Measurements provide data for the theory to understan...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05019v1"
         },
         {
-          "title": "Impact of octupole deformation on the nuclear electromagnetic response",
-          "summary": "Background: Properties of giant dipole resonances (GDRs), along with other nuclear resonances, provide valuable tools for refining theoretical models as they reflect collective features of nuclear mat...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03776v1"
+          "title": "Opacity estimation of OO collision from CoMBolt-ITA hybrid",
+          "summary": "Understanding the effect of system size on the applicability of the hydrodynamic description in heavy-ion physics remains unclear. Recent measurements of OO collisions at the LHC offer a new opportuni...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05009v1"
         },
         {
-          "title": "Compton suppressed scintillation spectrometer based on a cluster of 9$\\times$CeBr$_{3}$-NaI(Tl) phoswich detectors",
-          "summary": "Measurements of the characteristics of an Compton suppressed spectrometer consisting of 9$\\times$CeBr$_{3}$-NaI(Tl) phoswich detectors surrounded by four CsI(Tl) scintillation detectors intended for s...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03711v1"
+          "title": "Internal superfluid response and torque evolution in the giant glitch of PSR J1718-3718",
+          "summary": "We investigate the post-glitch rotational evolution of pulsars by analyzing the 2007 giant glitch of PSR J1718$-$3718 using a vortex creep model that incorporates both inward and outward nonlinear vor...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04972v1"
         },
         {
-          "title": "Initial state and evolution of hot and dense medium produced in isobaric collisions at 200A GeV at RHIC",
-          "summary": "Isobaric collisions provide a unique opportunity to investigate how variations in the charge to mass ratio affect the final state observables produced in relativistic heavy ion collisions. Most import...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03675v1"
+          "title": "Searching for new physics with $^{136}$Xe double beta decay spectrum in PandaX-4T",
+          "summary": "The continuous spectrum of double beta decay ($\u03b2\u03b2$) provides a sensitive probe to test the predictions of the Standard Model and to search for signatures of new physics beyond it. We present a compreh...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04849v1"
         },
         {
-          "title": "Real-time evolution of critical modes in the QCD phase diagram",
-          "summary": "A QCD-assisted relaxation dynamic model for the critical mode of the critical end point (CEP) in the QCD phase diagram is developed, which allows us to investigate the critical slowing down effect qua...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03614v1"
+          "title": "Thermodynamic and Transport properties of hot asymmetric nuclear matter within a chiral SU(3) model",
+          "summary": "We investigate the thermodynamic and transport properties in hot nuclear matter accounting for the medium modifications of the nucleons within a chiral SU(3) model including effects from isospin asymm...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04820v1"
         },
         {
-          "title": "Precision Measurements of Kinematic Scan for Fluctuations of (Net-)proton Multiplicity Distributions in Au+Au Collisions from RHIC-STAR",
-          "summary": "This work presents measurements of the rapidity-window dependence of event-by-event net-proton cumulants and proton factorial cumulants in Au+Au collisions at $\\sqrt{s_\\mathrm{NN}}=$7.7 -- 27 GeV, usi...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03493v1"
+          "title": "Static Fission Properties of Even-Even Actinides within the Warsaw Macroscopic-Microscopic Model Using Fourier-over-Spheroid Parameterization",
+          "summary": "A systematic study of fission barrier heights and static properties of even-even actinide nuclei from Th to Cf has been performed within the Warsaw macroscopic-microscopic model using the five-dimensi...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04739v1"
         },
         {
-          "title": "Astrophysical Reaction Rates for Charged-Particle Induced Reactions on Proton-Rich Nuclides",
-          "summary": "Astrophysical reaction rates for reactions with proton-rich nuclides from stability to the proton dripline were calculated with an updated version of the SMARAGD statistical model (Hauser-Feshbach) co...",
-          "date": "2025-12-02",
-          "link": "http://arxiv.org/abs/2512.03206v1"
+          "title": "Study of the reaction $\u039e^{0}n\\rightarrow\u039b\u039bX$ using $\u039e^{0}$-nucleus scattering",
+          "summary": "Using $(10087\\pm44)\\times10^{6}$$J/\u03c8$ events collected with the BESIII detector operating at the BEPCII storage ring in $2009$, $2012$, $2018$, and $2019$, we perform a search for the reaction $\u039e^0n\\r...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04701v1"
         },
         {
-          "title": "Effective Field Theory Perspective On King Non-linearity",
-          "summary": "Precision spectroscopic measurements of isotope shifts have recently reached a high level of accuracy. Tests of King non-linearity (NL) along isotope chains have been proposed as a tool to search for ...",
-          "date": "2025-12-02",
-          "link": "http://arxiv.org/abs/2512.03157v1"
+          "title": "Complex-energy eigenvector continuation for nuclear many-body broad resonances",
+          "summary": "Broad resonances are a unique phenomenon in nuclear many-body systems. Theoretical studies usually involve the continuum degree of freedom, which drastically increases the model space of calculations,...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04517v1"
         },
         {
-          "title": "Evidence of Spin-Interference Effects in Exclusive $J/\u03c8\\to e^+e^-$ Photoproduction in Ultraperipheral Heavy-Ion Collisions",
-          "summary": "We report the first evidence of spin interference in exclusive $J/\u03c8\\to e^+e^-$ photoproduction in ultraperipheral Au+Au and isobar (Ru+Ru, Zr+Zr) collisions ($\\sqrt{s_{NN}} = 200$~GeV) at STAR. A nega...",
-          "date": "2025-12-02",
-          "link": "http://arxiv.org/abs/2512.02865v1"
+          "title": "A Quarkyonic Quark-Meson Coupling Model for Nuclear and Neutron Matter",
+          "summary": "We unite the dual quarkyonic model with the quark-meson coupling (QMC) model to construct a novel nuclear model based on the quark degrees of freedom, which can cover a wide range of nuclear density f...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04505v1"
         }
       ]
     },
     "Quantum Info Science": {
-      "total_volume": 171016,
+      "total_volume": 171082,
       "recent_papers": [
         {
-          "title": "Instantaneous Sobolev Regularization for Dissipative Bosonic Dynamics",
-          "summary": "We investigate quantum Markov semigroups on bosonic Fock space and identify a broad class of infinite-dimensional dissipative evolutions that exhibit instantaneous Sobolev-regularization. Motivated by...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04066v1"
+          "title": "Decoy-state quantum key distribution over 227 km with a frequency-converted telecom single-photon source",
+          "summary": "We implement a decoy-state quantum key distribution scheme using a telecom C-band single- emitter source. The decoy states are created by varying the optical excitation of the quantum emitter to modul...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05101v1"
         },
         {
-          "title": "Closing the problem of which causal structures of up to six total nodes have a classical-quantum gap",
-          "summary": "The discovery of Bell that there exist quantum correlations that cannot be reproduced classically is one of the most important in the foundations of quantum mechanics, as well as having practical impl...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04058v1"
+          "title": "Pump Free Microwave-Optical Quantum Transduction",
+          "summary": "Distributed quantum computing involves superconducting computation nodes operating at microwave frequencies, which are connected by long-distance transmission lines that transmit photons at optical fr...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05096v1"
         },
         {
-          "title": "Thermalization from quenching in coupled oscillators",
-          "summary": "We introduce a finite-time protocol that thermalizes a quantum harmonic oscillator, initially in its ground state, without requiring a macroscopic bath. The method uses a second oscillator as an effec...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04028v1"
+          "title": "Multimode RF Reflectometry for Spin Qubit Readout and Device Characterization",
+          "summary": "We introduce a multimode superconducting inductor architecture that enables radio-frequency reflectometry at multiple discrete frequencies up to 2 GHz, addressing limitations of conventional single-mo...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05087v1"
         },
         {
-          "title": "TARA Test-by-Adaptive-Ranks for Quantum Anomaly Detection with Conformal Prediction Guarantees",
-          "summary": "Quantum key distribution (QKD) security fundamentally relies on the ability to distinguish genuine quantum correlations from classical eavesdropper simulations, yet existing certification methods lack...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04016v1"
+          "title": "Thermodynamic universality across dissipative quantum phase transitions",
+          "summary": "We study finite-time driving across second-order dissipative quantum phase transitions described by Lindblad dynamics. We show that the nonadiabatic entropy production, which quantifies deviations fro...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05074v1"
         },
         {
-          "title": "Fully quantum theory of strong-field driven tunable entangled multi-photon states in HHG",
-          "summary": "Quantum high-harmonic generation (HHG) is a growing field of research with capabilities of providing high photon-number entangled states of light. However, there is an open debate regarding the theory...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03987v1"
+          "title": "Hybrid Quantum-Classical Autoencoders for Unsupervised Network Intrusion Detection",
+          "summary": "Unsupervised anomaly-based intrusion detection requires models that can generalize to attack patterns not observed during training. This work presents the first large-scale evaluation of hybrid quantu...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05069v1"
         },
         {
-          "title": "Entanglement Detection with Rotationally Covariant Measurements - From Compton Scattering to Lemonade",
-          "summary": "The accurate and efficient detection of quantum entanglement remains a central challenge in quantum information science. In this work, we study the detection of entanglement of polarized photons for m...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03984v1"
+          "title": "Meta-Learning for Quantum Optimization via Quantum Sequence Model",
+          "summary": "The Quantum Approximate Optimization Algorithm (QAOA) is a leading approach for solving combinatorial optimization problems on near-term quantum processors. However, finding good variational parameter...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05058v1"
         },
         {
-          "title": "Quantum Diplomacy within the Southeast Asia Quantum Ecosystem",
-          "summary": "Amid the International Year of Quantum Science and Technology 2025 (IYQ 2025), a significant portion of global funding has been dedicated to various quantum initiatives, with over 30 countries announc...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03980v1"
+          "title": "High Fidelity Qubit Control in a Natural Si-MOS Quantum Dot using a 300 mm Silicon on Insulator Wafer",
+          "summary": "We demonstrate high-fidelity single qubit control in a natural Si-MOS quantum dot fabricated in an industrial 300 mm wafer process on a silicon on insulator (SOI) wafer using electron spin resonance. ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05052v1"
         },
         {
-          "title": "Non-radiative energy transfer between boron vacancies in hexagonal boron nitride and other 2D materials",
-          "summary": "Boron vacancies ($V_B^-$) in hexagonal boron nitride (hBN) have emerged as a promising platform for two-dimensional quantum sensors capable of operating at atomic-scale proximity. However, the mechani...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03970v1"
+          "title": "QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory",
+          "summary": "Long short-term memory (LSTM) models are a particular type of recurrent neural networks (RNNs) that are central to sequential modeling tasks in domains such as urban telecommunication forecasting, whe...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05049v1"
         },
         {
-          "title": "Image Theory for the Single Bounce Quantum Gravimeter",
-          "summary": "We develop an image theory for the recently proposed single-bounce quantum gravimeter. Free fall and quantum bounce of a matter wave-packet are described through decompositions over a basis of continu...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03953v1"
+          "title": "Expanding the Neutral Atom Gate Set: Native iSWAP and Exchange Gates from Dipolar Rydberg Interactions",
+          "summary": "We present a native realization of iSWAP and parameterized exchange gates for neutral atom quantum processing units. Our approach leverages strong dipole-dipole interactions between two dipole-coupled...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05037v1"
         },
         {
-          "title": "Thermodynamics of an Open $\\mathcal{PT-}$Symmetric Quantum System",
-          "summary": "For a subclass of a general $\\mathcal{PT}-$symmetric Hamiltonian obeying anti-commutation relation with its conjugate, a Hermitian basis is found that spans the bi-orthonormal energy eigenvectors. Usi...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03935v1"
+          "title": "Emergence of ER=EPR from non-local gravitational energy",
+          "summary": "We construct a class of wormhole geometries supported by the non-local gravitational self-energy that regularizes the particle and black-hole sectors of spacetime. Using this framework, inspired by T-...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05022v1"
         }
       ]
     },
     "Semiconductors": {
-      "total_volume": 104935,
+      "total_volume": 104959,
       "recent_papers": [
         {
-          "title": "Transport evidence of surface states in magnetic topological insulator MnBi2Te4",
-          "summary": "Magnetic topological insulators can host chiral 1D edge channels at zero magnetic field, when a magnetic gap opens at the Dirac point in the band structure of 2D topological surface states, lead- ing ...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04063v1"
+          "title": "Global phase diagram of two-dimensional dirty hyperbolic Dirac liquids",
+          "summary": "Within the framework of the canonical nearest-neighbor tight-binding model for spinless fermions, a family of two-dimensional bipartite hyperbolic lattices hosts massless Diraclike excitations near ha...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05109v1"
         },
         {
-          "title": "Configurable antiferromagnetic domains and lateral exchange bias in atomically thin CrPS4",
-          "summary": "Interfacial exchange coupling between antiferromagnets (AFMs) and ferromagnets (FMs) crucially makes it possible to shift the FM hysteresis, known as exchange bias, and to switch AFM states. Two-dimen...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04055v1"
+          "title": "Multimode RF Reflectometry for Spin Qubit Readout and Device Characterization",
+          "summary": "We introduce a multimode superconducting inductor architecture that enables radio-frequency reflectometry at multiple discrete frequencies up to 2 GHz, addressing limitations of conventional single-mo...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05087v1"
         },
         {
-          "title": "High-order two-component fractional quantum Hall states around filling factor $\u03bd= 1$",
-          "summary": "Two-component fractional quantum Hall (2C-FQH) states in electron bilayers have been known for decades, yet their experimental realization remained limited to low-order fractions. Here we report on se...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.04050v1"
+          "title": "Axionic tunneling from a topological Kondo insulator",
+          "summary": "Discoveries over the past two decades have revealed the remarkable ability of quantum materials to emulate relativistic properties of the vacuum, from Dirac cones in graphene to the Weyl surface state...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05057v1"
         },
         {
-          "title": "Non-radiative energy transfer between boron vacancies in hexagonal boron nitride and other 2D materials",
-          "summary": "Boron vacancies ($V_B^-$) in hexagonal boron nitride (hBN) have emerged as a promising platform for two-dimensional quantum sensors capable of operating at atomic-scale proximity. However, the mechani...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03970v1"
+          "title": "High Fidelity Qubit Control in a Natural Si-MOS Quantum Dot using a 300 mm Silicon on Insulator Wafer",
+          "summary": "We demonstrate high-fidelity single qubit control in a natural Si-MOS quantum dot fabricated in an industrial 300 mm wafer process on a silicon on insulator (SOI) wafer using electron spin resonance. ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05052v1"
         },
         {
-          "title": "Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol",
-          "summary": "Industrial automation increasingly requires flexible control strategies that can adapt to changing tasks and environments. Agents based on Large Language Models (LLMs) offer potential for such adaptiv...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03955v1"
+          "title": "Hall-like response from anisotropic Fermi surfaces",
+          "summary": "We demonstrate that an anisotropic and rotated Fermi surface can generate a finite Hall-like transverse response in electron transport, even in the absence of a magnetic field or Berry curvature. Usin...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.05014v1"
         },
         {
-          "title": "Laser-induced modulation of conductance in graphene with magnetic barriers",
-          "summary": "We study how electrons move across a graphene sheet when it encounters two magnetic barriers with a region in between that is continuously driven by laser light. Rather than acting as a static obstacl...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03863v1"
+          "title": "Suppressing metal molecule charge transfer with a phosphorus interlayer",
+          "summary": "Porphyrins are organic molecules that exhibit excellent opto-electronics properties, making them suitable for a variety of applications. Nevertheless, their functionality strongly depends on the surfa...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04999v1"
         },
         {
-          "title": "Modelling the Impact of Device Imperfections on Electron Shuttling in SiMOS devices",
-          "summary": "Extensive theoretical and experimental work has established high-fidelity electron shuttling in Si/SiGe systems, whereas demonstrations in Si/SiO2 (SiMOS) remain at an early stage. To help address thi...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03853v1"
+          "title": "Optical Readout of Reconfigurable Layered Magnetic Domain Structure in CrSBr",
+          "summary": "The emergence of intelligent matter has sparked significant interest in next generation technologies. We report on the discovery of a reconfigurable magnetic multilayer domain structure in the van der...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04887v1"
         },
         {
-          "title": "Quantum geometric planar magnetotransport: a probe for magnetic geometry in altermagnets",
-          "summary": "Nonlinear and nonreciprocal transport phenomena provide a direct probe of band quantum geometry in noncentrosymmetric magnetic materials, such as the nonlinear Hall effect induced by the quantum metri...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03814v1"
+          "title": "Interplay between Superconductivity and Altermagnetism in Disordered Materials and Heterostructures",
+          "summary": "We study the interplay between superconductivity and altermagnetism in disordered systems using recently derived quantum kinetic transport equations. Starting from this framework, we derive the Ginzbu...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04819v1"
         },
         {
-          "title": "Proximity-induced superconductivity in magnetic topological insulator films",
-          "summary": "Inducing superconducting correlations in magnetic topological insulators (MTIs) is emerging as a promising route toward the realization of topological superconductivity and Majorana modes. Here, we de...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03797v1"
+          "title": "Edge spin galvanic effect in altermagnets",
+          "summary": "The edge spin galvanic effect (ESGE) in $d$-wave altermagnets is proposed. ESGE is a creation of an electrical current flowing along the edge of the sample, which is driven by the spin orientation of ...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04798v1"
         },
         {
-          "title": "AI/ML in 3GPP 5G Advanced - Services and Architecture",
-          "summary": "The 3rd Generation Partnership Project (3GPP), the standards body for mobile networks, is in the final phase of Release 19 standardization and is beginning Release 20. Artificial Intelligence/ Machine...",
-          "date": "2025-12-03",
-          "link": "http://arxiv.org/abs/2512.03728v1"
+          "title": "Anomalous impurity-induced charge modulations in black phosphorus",
+          "summary": "We observe anomalous charge modulations induced by ionized indium impurities on the surface of the semiconductor black phosphorus by scanning tunneling microscopy (STM). When the im- purities are swit...",
+          "date": "2025-12-04",
+          "link": "http://arxiv.org/abs/2512.04791v1"
         }
       ]
     }
